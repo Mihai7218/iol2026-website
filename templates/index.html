@@ -11,3 +11,47 @@
 </div>
 
 {%endblock hero %}
+
+
+{% block footer %}
+
+<style>
+    footer {
+        /* background-color: grey; */
+        align-items: center;
+        padding: 30px;
+    }
+
+    footer h1 {
+        border: 0px;
+    }
+
+    footer .organisations-list {
+        align-items: center;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-left: 30px;
+        padding-right: 30px;
+        gap: 20px;
+    }
+        
+    footer .organisations-list img {
+        align-self: center;
+        max-height: 100px;
+    }
+</style>
+
+<footer>
+    <h1>Partners</h1>
+
+    <div class="organisations-list" style="margin-bottom: 50px">
+        <img src="footer/logo_MEC.png">
+        <img src="footer/logo_UniBuc.png">
+        <img src="footer/logo_Drept.png">
+    </div>
+
+    <h3>© 2026 - International Linguistics Olympiad</h3>
+</footer>
+
+{% endblock footer %}
