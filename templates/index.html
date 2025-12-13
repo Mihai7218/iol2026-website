@@ -12,6 +12,11 @@
 
 {%endblock hero %}
 
+{% block sidebar %}{% endblock sidebar %}
+
+{% block content %}
+    {{ section.content | safe }}
+{% endblock content %}
 
 {% block footer %}
 
