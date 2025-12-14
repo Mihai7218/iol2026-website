@@ -61,6 +61,30 @@ h1 {
 .banner-ribbon-short {
     margin-top: 1em;
 }
+.banner-countdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding-top: 1em;
+}
+.banner-countdown div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-countdown span {
+    font-family: Lora;
+    font-weight: 600;
+    color: var(--primary-text-color);
+    font-size: 1em;
+    padding-bottom: 0.5em;
+}
+.banner-countdown .countdown-item {
+    font-size: 1.5em;
+}
 @media (max-width: 768px) {
     .banner-image-container,
     .banner-info {
