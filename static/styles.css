@@ -1,0 +1,99 @@
+h1 {
+    font-weight: bold;
+}
+.logo {
+    font-family: Lora;
+    font-weight: bold;
+}
+#header-offset {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.banner {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.banner-ribbon-long {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 100%;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+.banner-content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+.banner-image-container {
+    flex: 0 0 40%;
+    max-width: 100%;
+}
+.banner-image {
+    width: 80%;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.banner-info {
+    flex: 0 0 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-ribbon-short {
+    margin-top: 1em;
+}
+@media (max-width: 768px) {
+    .banner-image-container,
+    .banner-info {
+        flex: 0 0 100%;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+    .banner-info img {
+        max-width: 90%;
+        height: auto;
+    }
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+footer h1 {
+    border-left: 0px;
+}
+.organisations-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.organisations-list img {
+    max-height: 100px;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    flex-shrink: 1;
+}
