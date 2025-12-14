@@ -17,7 +17,7 @@
 <div id="header-offset"></div>
 
 <div class="banner">
-    <img src="ribbon_long.svg" class="banner-ribbon-long">
+    <div class="banner-ribbon"></div>
 
     <div class="banner-content">
         <div class="banner-image-container">
@@ -27,11 +27,30 @@
         <div class="banner-info">
             <h1>The 23<sup>rd</sup> International Linguistics Olympiad</h1>
             <h2>July 26<sup>th</sup> - August 2<sup>nd</sup> 2026 | Bucharest, Romania</h2>
-            <img src="ribbon_short.svg" class="banner-ribbon-short">
+            <img src="ribbon_hora.svg" class="banner-hora">
+            
+            <div class="banner-countdown" data-target-date="2026-07-26T00:00:00Z">
+                <div>
+                    <span class="countdown-item days">0</span>
+                    <span>Days</span>
+                </div>
+                <div>
+                    <span class="countdown-item hours">0</span>
+                    <span>Hours</span>
+                </div>
+                <div>
+                    <span class="countdown-item minutes">0</span>
+                    <span>Minutes</span>
+                </div>
+                <div>
+                    <span class="countdown-item seconds">0</span>
+                    <span>Seconds</span>
+                </div>
+            </div>
         </div>
     </div>
 
-    <img src="ribbon_long.svg" class="banner-ribbon-long">
+    <div class="banner-ribbon"></div>
 </div>
 
 <script>
@@ -50,6 +69,29 @@
         // Recalculate on resize (responsive header)
         window.addEventListener("resize", updateHeaderOffset);
     })();
+    (function() {
+        const countdowns = document.querySelectorAll('.banner-countdown');
+        countdowns.forEach(container => {
+            const targetDate = new Date(container.dataset.targetDate);
+            function updateCountdown() {
+                const now = new Date();
+                let diff = targetDate - now;
+                if (diff < 0) diff = 0;
+
+                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((diff / (1000 * 60 * 60)) % 24);
+                const minutes = Math.floor((diff / (1000 * 60)) % 60);
+                const seconds = Math.floor((diff / 1000) % 60);
+
+                container.querySelector('.days').textContent = days;
+                container.querySelector('.hours').textContent = hours;
+                container.querySelector('.minutes').textContent = minutes;
+                container.querySelector('.seconds').textContent = seconds;
+            }
+            updateCountdown();
+            setInterval(updateCountdown, 1000);
+        });
+    })();   
 </script>
 
 {%endblock hero %}
