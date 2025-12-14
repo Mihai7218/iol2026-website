@@ -6,4 +6,4 @@ weight = 0
 
 # News and Updates
 
-- [1st December 2026] Website launch
+- [December 2025] Website launch
