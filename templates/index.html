@@ -1,27 +1,48 @@
 {% extends "juice/templates/index.html" %}
 
+{% block head %}
+    <link rel="stylesheet" href="styles.css">
+{% endblock head %}
+
 {% block hero %}
 
-<style>
-    .hero-div {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding-top: 50px;
-    }
+<div id="header-offset"></div>
 
-    .hero-div img {
-        max-width: 90%;
-        height: auto;
-        max-height: 400px;
-    }
-</style>
+<div class="banner">
+    <img src="ribbon_long.svg" class="banner-ribbon-long">
 
-<div class="hero-div">
-    <img src="/logo.png">
-    <h1> IOL 2026 · Bucharest, Romania </h1>
-    <h2> July 26th - August 2nd 2026 </h2>
+    <div class="banner-content">
+        <div class="banner-image-container">
+            <img src="logo.svg" class="banner-image">
+        </div>
+
+        <div class="banner-info">
+            <h1>The 23<sup>rd</sup> International Linguistics Olympiad</h1>
+            <h2>July 26<sup>th</sup> - August 2<sup>nd</sup> 2026 | Bucharest, Romania</h2>
+            <img src="ribbon_short.svg" class="banner-ribbon-short">
+        </div>
+    </div>
+
+    <img src="ribbon_long.svg" class="banner-ribbon-long">
 </div>
+
+<script>
+    (function () {
+        function updateHeaderOffset() {
+            const header = document.querySelector("header");
+            const offset = document.getElementById("header-offset");
+            if (!header || !offset) return;
+            const height = header.offsetHeight;
+            offset.style.height = height + "px";
+            offset.style.width = "100%";
+            offset.style.pointerEvents = "none";
+        }
+        // Run after layout & fonts are loaded
+        window.addEventListener("load", updateHeaderOffset);
+        // Recalculate on resize (responsive header)
+        window.addEventListener("resize", updateHeaderOffset);
+    })();
+</script>
 
 {%endblock hero %}
 
