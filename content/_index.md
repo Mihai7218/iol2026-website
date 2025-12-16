@@ -1,5 +1,6 @@
 +++
 title = "IOL 2026"
+sort_by = "weight"
 description = "Home"
 weight = 0
 +++
