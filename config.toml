@@ -18,6 +18,3 @@ highlight_code = false
 # Put all your custom variables here
 juice_logo_path = "favicon.png"
 juice_logo_name = "IOL 2026"
-juice_extra_menu = [
-    { title = "Contact", link = "mailto:iol2026ro@gmail.com" }
-]
