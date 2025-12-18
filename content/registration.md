@@ -8,11 +8,9 @@ weight = 2
 
 Registration will be done through the Registration System. A link will be provided here once it opens. Details about account creation will be provided before then.
 
-## For non-accredited countries
+## Accredited countries
 
-> Countries which have not yet completed the accreditation process may be permitted to send one team to attend the Olympiad as guests at the discretion of the International Board in consultation with the Local Organisers. 
-
-Excrept of article 2.3.4 of the [Regulations of the IOL](https://ioling.org/rules/rules.pdf).
+The list of accredited countries is available [here](https://ioling.org/countries/). For any questions regarding accreditation, please contact [contact@ioling.org](mailto:contact@ioling.org).
 
 # Registration fees
 
@@ -24,7 +22,7 @@ Details about deadlines will be available shortly.
 
 # Visa requirements
 
-**NOTE:** the information provided here is for your convenience only. No rights can be derived from it. Make sure to consult official government sources for up-to-date information about visa requirements and entry conditions.
+<div class="warning-visas"><span class="text-900">NOTE:</span> The information provided here is for your convenience only. No rights can be derived from it. Make sure to consult official government sources for up-to-date information about visa requirements and entry conditions.</div>
 
 The visa policy of Romania is the same as the rest of the Schengen Area.
 <figure>
