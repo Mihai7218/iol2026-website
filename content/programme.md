@@ -1,7 +1,7 @@
 +++
 title = "Programme"
 description = "Programme"
-weight = 5
+weight = 3
 +++
 
 # Students' programme
