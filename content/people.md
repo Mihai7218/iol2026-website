@@ -1,6 +1,6 @@
 +++
 title = "People"
-description = "People of IOL 2026"
+description = "People"
 weight = 6
 +++
 

@@ -1,7 +1,7 @@
 +++
 title = "Locations"
-description = "IOL 2026 Locations"
-weight = 3
+description = "Locations"
+weight = 4
 +++
 
 # Ceremony and contest venues
