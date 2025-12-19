@@ -132,3 +132,18 @@ footer h1 {
     padding: 10px;
     flex-shrink: 1;
 }
+
+.warning-visas {
+    width: 95%;
+    margin: 0 auto;
+    padding-left: 10px;
+    background-color: #B3393920;
+    border-left: 5px;
+    border-left-style: solid;
+    border-radius: 5px;
+    border-left-color: #B33939;
+}
+
+.text-900 {
+    font-weight: 900;
+}
