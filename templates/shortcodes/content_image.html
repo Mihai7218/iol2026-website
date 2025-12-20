@@ -1,0 +1,19 @@
+<figure class="centered-figure">
+    <img  src="{{ source }}" width="{{ width }}" />
+
+    {% if caption %}
+    <figcaption class="figure-caption">
+        {{ caption }}
+    </figcaption>
+    {% endif %}
+
+    {% if source_name and source_link %}
+    <figcaption class="figure-source">
+        Source: <a href="{{ source_link }}">{{ source_name }}</a>.
+    </figcaption>
+    {% elif source_name %}
+    <figcaption class="figure-source">
+        Source: <a href="{{ source_link }}">{{ source_name }}</a>.
+    </figcaption>
+    {% endif %}
+</figure>
