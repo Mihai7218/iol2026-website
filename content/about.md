@@ -4,18 +4,20 @@ description = "About IOL 2026"
 weight = 1
 +++
 
-# The International Linguistics Olympiad (IOL)
+# The International Linguistics Olympiad
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+The *International Linguistics Olympiad (IOL)* is an annual international competition that brings together secondary school students and experts from various fields of linguistics.  
 
-# The 2026 IOL host country: Romania
+The competition challenges participants to analyze the grammar, structure, culture, and history of different languages and to demonstrate their linguistic abilities through puzzles and problem-solving challenges.
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+For more information about the olympiad, as well as past problems and results, please consult the official IOL [page](https://ioling.org).
+
+# The IOL 2026 host country
 
 ## About Romania
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Romania is a country in Southeastern Europe, recognized for its scenic landscapes shaped by the Carpathian Mountains, as well as its well-preserved medieval castles and fortified churches. It is also widely associated with the legend of Count Dracula, which has become an enduring part of its international image. Beyond these symbols, Romania has a rich and complex history that has influenced its cultural and linguistic diversity. The country stands out for its long-standing traditions, vibrant folklore, and skilled traditional crafts, while its cuisine reflects a blend of regional influences and local heritage.
 
 ## About Bucharest
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+Bucharest, the capital of Romania, is a dynamic city known for its vibrant atmosphere and contrasts. It blends modern life with tradition through a mix of historic buildings, wide boulevards, and contemporary architecture, reflecting different periods of its past. The city is home to many beautiful landmarks, such as grand palaces, churches, and cultural institutions, while its cafés, parks, and lively cultural scene give it an energetic and welcoming character.
