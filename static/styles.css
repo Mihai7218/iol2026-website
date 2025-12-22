@@ -1,10 +1,15 @@
 h1, h2 {
     font-weight: bold;
 }
+.text-900 {
+    font-weight: 900;
+}
+
 .logo {
     font-family: Lora;
     font-weight: bold;
 }
+
 #header-offset {
     flex: 0 0 auto;
     width: 100%;
@@ -109,6 +114,7 @@ h1, h2 {
         background-image: url("ribbon_short.png");
     }
 }
+
 footer {
     display: flex;
     flex-direction: column;
@@ -144,6 +150,53 @@ footer h1 {
     border-left-color: #B33939;
 }
 
-.text-900 {
-    font-weight: 900;
+.figure-row {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    align-items: flex-start;
+}
+.centered-figure {
+    margin: 0;
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.centered-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.figure-captions {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+.figure-caption {
+    text-align: center;
+    font-size: medium;
+    line-height: normal;
+    margin-top: 1em;
+}
+.figure-source {
+    text-align: center;
+    font-size: small;
+    line-height: normal;
+    margin-top: 0.5em;
+}
+@media (max-width: 768px) {
+    .figure-row {
+        flex-wrap: wrap;
+    }
+    .figure-row figure {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
 }
