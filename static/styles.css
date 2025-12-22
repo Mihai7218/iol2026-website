@@ -127,6 +127,7 @@ footer {
 }
 footer h1 {
     border-left: 0px;
+    color: #735659;
 }
 .organisations-list {
     display: flex;
