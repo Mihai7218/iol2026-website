@@ -1,0 +1,116 @@
+{% set data = load_data(path="static/images.toml") %}
+
+<div class="figure-row" {% if max_height %}data-max-height="{{ max_height }}"{% endif %}>
+    {% for cat in data.categories %}
+        {% if cat.name == category %}
+            {% for image in cat.images %}
+                <figure class="centered-figure">
+                    <img src="{{ image.source }}" />
+                
+                    <div class="figure-captions">
+                        {% if image.caption %}
+                        <figcaption class="figure-caption">
+                            {{ image.caption }}
+                        </figcaption>
+                        {% endif %}
+                    
+                        {% if image.source_name and image.source_link %}
+                        <figcaption class="figure-source">
+                            Source: <a href="{{ image.source_link }}">{{ image.source_name }}</a>.
+                        </figcaption>
+                        {% elif image.source_name %}
+                        <figcaption class="figure-source">
+                            Source: {{ image.source_name }}.
+                        </figcaption>
+                        {% endif %}
+                    </div>
+                </figure>
+            {% endfor %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+<script>
+(function() {
+    function equalizeImageHeights(row) {
+        if (window.innerWidth < 768) return;
+        
+        const figures = row.querySelectorAll('figure');
+        const images = Array.from(figures).map(fig => fig.querySelector('img'));
+        
+        if (images.length === 0) return;
+        
+        Promise.all(images.map(img => {
+            return new Promise((resolve) => {
+                if (img.complete && img.naturalWidth > 0) {
+                    resolve();
+                } else {
+                    img.onload = resolve;
+                    img.onerror = resolve;
+                }
+            });
+        })).then(() => {
+            const aspectRatios = images.map(img => img.naturalWidth / img.naturalHeight);
+            const maxHeight = row.dataset.maxHeight ? parseInt(row.dataset.maxHeight) : Infinity;
+            const containerWidth = row.clientWidth;
+            const gap = parseInt(window.getComputedStyle(row).gap) || 0;
+            const totalGapWidth = gap * Math.max(0, images.length - 1);
+            const availableWidth = containerWidth - totalGapWidth;
+            
+            const sumRatios = aspectRatios.reduce((sum, ratio) => sum + ratio, 0);
+            let height = availableWidth / sumRatios;
+            
+            // Apply max-height constraint if specified
+            if (height > maxHeight) {
+                height = maxHeight;
+            }
+            
+            images.forEach((img, i) => {
+                const width = height * aspectRatios[i];
+                img.style.width = width + 'px';
+                img.style.height = height + 'px';
+                img.parentElement.style.maxWidth = width + 'px';
+            });
+        });
+    }
+    
+    function equalizeCaptions(row) {
+        if (window.innerWidth < 768) {
+            const captions = row.querySelectorAll('.figure-captions');
+            captions.forEach(cap => {
+                cap.style.minHeight = 'auto';
+            });
+            return;
+        }
+        
+        const captions = row.querySelectorAll('.figure-captions');
+        let maxCaptionHeight = 0;
+        
+        captions.forEach(cap => {
+            cap.style.minHeight = 'auto';
+        });
+        
+        captions.forEach(cap => {
+            maxCaptionHeight = Math.max(maxCaptionHeight, cap.offsetHeight);
+        });
+        
+        captions.forEach(cap => {
+            cap.style.minHeight = maxCaptionHeight + 'px';
+        });
+    }
+    
+    const row = document.currentScript.previousElementSibling;
+    if (row && row.classList.contains('figure-row')) {
+        window.addEventListener('load', () => {
+            equalizeImageHeights(row);
+            setTimeout(() => equalizeCaptions(row), 100);
+        });
+        window.addEventListener('resize', () => {
+            equalizeImageHeights(row);
+            equalizeCaptions(row);
+        });
+        equalizeImageHeights(row);
+        setTimeout(() => equalizeCaptions(row), 100);
+    }
+})();
+</script>
