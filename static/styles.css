@@ -4,6 +4,10 @@ h1, h2 {
 .text-900 {
     font-weight: 900;
 }
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
 
 .logo {
     font-family: Lora;
