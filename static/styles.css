@@ -143,6 +143,11 @@ footer h1 {
     padding: 10px;
     flex-shrink: 1;
 }
+@media (max-width: 768px) {
+    .organisations-list img {
+        max-height: 100px;
+    }
+}
 
 .warning-visas {
     width: 95%;
