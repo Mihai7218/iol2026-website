@@ -1,5 +1,20 @@
 [[categories]]
-name = "about-landscape"
+name = "about-landscape-1"
+
+[[categories.images]]
+source = "https://live.staticflickr.com/4441/36399442180_7fd09c2f72_o.jpg"
+caption = "The Bigăr Waterfall in Caraș-Severin"
+source_name = "Guiseppe Milo, via Flickr"
+source_link = "https://www.flickr.com/photos/giuseppemilo/36399442180"
+
+[[categories.images]]
+source = "https://upload.wikimedia.org/wikipedia/commons/6/62/Pelicans_at_the_Danube_Delta%2C_Romania.jpg"
+caption = "Pelicans in the Danube Delta"
+source_name = "Thepinkfluffy1211, via Wikimedia Commons"
+source_link = "https://commons.wikimedia.org/wiki/File:Pelicans_at_the_Danube_Delta,_Romania.jpg"
+
+[[categories]]
+name = "about-landscape-2"
 
 [[categories.images]]
 source = "https://upload.wikimedia.org/wikipedia/commons/0/01/Alone_in_the_unspoilt_wilderness_%28Unsplash%29.jpg"

@@ -18,11 +18,13 @@ As the 23<sup>rd</sup> IOL is right around the corner, we welcome you to Romania
 
 ## A Landscape Out of a Fairytale
 
-Romania is a country of striking natural diversity, where landscapes shift dramatically from one region to another. Dense forests, rolling hills, fertile plains, and winding rivers create a patchwork of scenery that feels almost storybook-like. From traditional villages tucked into the countryside to the vast wetlands of the Danube Delta, this variety gives Romania a timeless, almost untouched charm.
+Romania is a country of striking natural diversity, where landscapes shift dramatically from one region to another. Dense forests, rolling hills, fertile plains, and winding rivers create a patchwork of scenery that feels almost storybook-like. From traditional villages tucked into the countryside to the vast wetlands of the *Danube Delta*, this variety gives Romania a timeless, almost untouched charm.
+
+{{ image_row(category="about-landscape-1") }}
 
 At the heart of it all rise the *Carpathian Mountains*, Romania’s “backbone”, a wild, jagged range perfect for epic hikes and spotting the occasional brown bear. In the valleys of Transylvania, you’ll find perfectly preserved *medieval towns* and *fortified churches* that look like they’ve been frozen in time since the 14th century. Cobblestone streets, colorful facades, and centuries-old towers blend seamlessly with the surrounding peaks, creating a landscape that feels lifted straight from a fairytale.
 
-{{ image_row(category="about-landscape") }}
+{{ image_row(category="about-landscape-2") }}
 
 ## Beyond the Fangs
 
