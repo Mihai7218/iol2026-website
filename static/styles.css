@@ -129,6 +129,10 @@ footer h1 {
     border-left: 0px;
     color: #735659;
 }
+.copyright {
+    font-size: large;
+    text-align: center;
+}
 .organisations-list {
     display: flex;
     flex-direction: row;
@@ -144,6 +148,9 @@ footer h1 {
     flex-shrink: 1;
 }
 @media (max-width: 768px) {
+    .copyright {
+        font-size: medium;
+    }
     .organisations-list img {
         max-height: 100px;
     }
