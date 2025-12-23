@@ -127,6 +127,11 @@ footer {
 }
 footer h1 {
     border-left: 0px;
+    color: #735659;
+}
+.copyright {
+    font-size: large;
+    text-align: center;
 }
 .organisations-list {
     display: flex;
@@ -136,11 +141,19 @@ footer h1 {
     justify-content: center;
 }
 .organisations-list img {
-    max-height: 100px;
+    max-height: 80px;
     max-width: 100%;
     height: auto;
     padding: 10px;
     flex-shrink: 1;
+}
+@media (max-width: 768px) {
+    .copyright {
+        font-size: medium;
+    }
+    .organisations-list img {
+        max-height: 100px;
+    }
 }
 
 .warning-visas {
