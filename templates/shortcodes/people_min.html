@@ -1,0 +1,11 @@
+{% set people = load_data(path=data) %}
+
+<div class="people-min">
+    {% for person in people.person %}
+    <div class="person-min">
+        <img class="person-photo" src="{{person.photo}}" />
+        <span class="person-name">{{person.name}}</span>
+        <span class="person-role">{{person.role}}</span>
+    </div>
+    {% endfor %}
+</div>
