@@ -1,90 +1,29 @@
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
+name="Paul Helmer"
+role="Chair, Finance"
 photo="loc/LI.JPG"
 
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
+name="Valentina Cojocaru"
+role="Accommodation"
 photo="loc/LI.JPG"
 
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
+name="Roxana Preda"
+role="Venue, Logistics"
 photo="loc/LI.JPG"
 
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
+name="Vlad Neacșu"
+role="Public Relations"
 photo="loc/LI.JPG"
 
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
+name="Mihai Bratu"
+role="Technology"
+photo="loc/MB.jpeg"
 
 [[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum Lorem Ipsum Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
-[[person]]
-name="Lorem Ipsum"
-role="Dolor"
-bio="Sit amet"
-photo="loc/LI.JPG"
-
+name="Tamara Ivanof"
+role="User Experience"
+photo="loc/ETI.jpg"

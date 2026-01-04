@@ -268,11 +268,10 @@ footer h1 {
 .people-min {
     display: flex;
     flex-direction: row;
-    width: 100%;
     flex-wrap: wrap;
     justify-content: space-around;
     align-content: center;
-    margin: 1rem;
+    padding: 1rem;
     border-radius: 0.5rem;
 
     background-color: var(--primary-color);
