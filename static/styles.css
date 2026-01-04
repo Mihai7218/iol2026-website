@@ -217,3 +217,85 @@ footer h1 {
         max-width: 100%;
     }
 }
+
+.person-name {
+    margin: 0 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
+.person-role {
+    color: var(--primary-text-color-c0);
+    font-style: italic;
+}
+
+.people-desc {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--primary-color);
+    
+    details {
+        display: flex;
+        flex-direction: column;
+        margin: 1rem;
+        align-items: left;
+
+        summary {
+            display: flex;
+            margin: 0 1rem;
+            flex-direction: row;
+            align-items: center;
+        }
+    }
+
+
+    .person-photo {
+        border-radius: 9999px;
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .person-bio {
+        margin: 1rem 2.5rem;
+        padding-left: 5.5rem;
+    }
+} 
+
+.people-min {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    margin: 1rem;
+    border-radius: 0.5rem;
+
+    background-color: var(--primary-color);
+    
+    .person-min {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin: 1rem;
+        align-items: center;
+
+
+        summary {
+            display: flex;
+            margin: 1rem;
+            flex-direction: row;
+            align-items: center;
+        }
+    }
+
+    .person-photo {
+        border-radius: 9999px;
+        width: 10rem;
+        height: 10rem;
+    }
+} 
