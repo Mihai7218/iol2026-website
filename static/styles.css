@@ -39,7 +39,7 @@ p {
     max-width: 100%;
     padding-top: 0.5em;
     padding-bottom: 1em;
-    background-image: url("ribbon_long.svg");
+    background-image: url("hero/ribbon_long.png");
     background-repeat: no-repeat;
     background-position: top;
     background-size: contain;
@@ -115,7 +115,7 @@ p {
         height: auto;
     }
     .banner-ribbon {
-        background-image: url("ribbon_short.png");
+        background-image: url("hero/ribbon_short.png");
     }
 }
 
