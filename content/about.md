@@ -58,4 +58,26 @@ From dramatic landscapes and medieval towns to living traditions and timeless fl
 
 # About Bucharest
 
-Bucharest, the capital of Romania, is a dynamic city known for its vibrant atmosphere and contrasts. It blends modern life with tradition through a mix of historic buildings, wide boulevards, and contemporary architecture, reflecting different periods of its past. The city is home to many beautiful landmarks, such as grand palaces, churches, and cultural institutions, while its cafés, parks, and lively cultural scene give it an energetic and welcoming character.
+Bucharest, the capital of Romania, is a dynamic city defined by contrasts. It blends modern life with tradition through a mix of historic buildings, wide boulevards, and contemporary architecture, reflecting different periods of its past. The city feels energetic and lived-in: café culture, parks and tree-lined streets, and a busy cultural calendar give it a welcoming rhythm that often stretches comfortably into the evening.
+
+{{ image_row(category="about-bucharest") }}
+
+## A city shaped by eras, not a single storyline
+
+Bucharest has been reinvented more than once, and those reinventions are visible in its streetscape. In the late 19th century and into the Belle Époque, the city’s elite were strongly influenced by French culture and urban style, and the nickname “Little Paris” took hold—less as a slogan, more as an attitude that filtered into architecture, fashion, and city life. Echoes of that chapter still show up in the proportions of central streets, the ornamental details on older façades, and the way certain areas feel naturally designed for promenading.
+
+{{ image_row(category="about-bucharest-old-1") }}
+
+But Bucharest isn’t a city with one smooth timeline. The 20th century brought sharp turns: shifting political systems, large-scale urban transformations, and civic projects that reshaped entire zones. The result is a place where architectural “moods” can change quickly—sometimes within the same block—and where history isn’t neatly packaged into one district. Instead, it appears in fragments and contrasts: refined beside austere, intimate beside monumental, old elements tucked into newer lines.
+
+{{ image_row(category="about-bucharest-old-2") }}
+
+## Bucharest today
+
+Today, Bucharest is practical and international, with a growing creative scene and a social life that spills comfortably into the evening. It’s a place where the center is not just for sightseeing but for living: people meet on terraces, move between neighborhoods for concerts and exhibitions, and treat the city as something active and evolving rather than something preserved. The energy is very current, but the layers are always there, quietly shaping the atmosphere.
+
+{{ image_row(category="about-bucharest-new") }}
+
+## A warm welcome!
+
+During the IOL, Bucharest becomes a meeting point where these threads come together: sharp minds, many languages, and a city that knows how to hold contrasts without needing to explain them. Step into the week with curiosity: Romania has a way of turning visits into stories, and stories into something you carry home.
