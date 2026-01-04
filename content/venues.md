@@ -1,6 +1,6 @@
 +++
-title = "Locations"
-description = "Locations"
+title = "Venues"
+description = "Venues"
 weight = 4
 +++
 
