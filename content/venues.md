@@ -4,7 +4,7 @@ description = "Venues"
 weight = 4
 +++
 
-Information about the venues (contest, ceremony, accomodation) will be available soon.
+Information about the venues (contest, ceremony, accomodation) will be available later.
 
 <!-- # Ceremony and contest venues
 

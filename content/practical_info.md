@@ -4,7 +4,7 @@ description = "Practical information"
 weight = 5
 +++
 
-A local guide containing practical information for IOL 2026 will be available soon.
+A local guide containing practical information for IOL 2026 will be available later.
 
 <!-- # Transportation
 
