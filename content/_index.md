@@ -7,4 +7,10 @@ weight = 0
 
 # News and Updates
 
-- [December 2025] Website launch
+<!-- ## Volunteering applications now open!
+
+[*6<sup>th</sup> of January 2026*] - The volunteer applications are officially open. Find out more about how to apply for volunteering at IOL 2026 by visiting the [Volunteering page](/volunteering). -->
+
+## Website launch
+
+[*5<sup>th</sup> of January 2026*] - The official website for the 23<sup>rd</sup> edition of the International Linguistics Olympiad has been launched.
