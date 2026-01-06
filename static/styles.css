@@ -299,3 +299,18 @@ footer h1 {
         height: 10rem;
     }
 } 
+
+.button-paragraph {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.button {
+    background-color: var(--primary-link-color);
+    padding: 1rem;
+    border-radius: 1rem;
+    transition-duration: 0.3s;
+}
+.button:hover {
+    filter: brightness(110%);
+}
