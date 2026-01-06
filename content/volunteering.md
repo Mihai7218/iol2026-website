@@ -16,4 +16,4 @@ The Local Organizing Committee is looking for both Romanian and International vo
 
 The first step in the selection process consists in completing the volunteer [application form](https://forms.gle/SbZnvxPNxqMHYTXn8).
 
-Applications will be open from **January 5th** to **February 1st 2026**.
+Applications are open from **January 6th** to **February 1st 2026**.
