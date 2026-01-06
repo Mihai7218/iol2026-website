@@ -300,6 +300,11 @@ footer h1 {
     }
 } 
 
+.button-paragraph {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
 .button {
     background-color: var(--primary-link-color);
     padding: 1rem;
