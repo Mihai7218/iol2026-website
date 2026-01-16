@@ -18,20 +18,22 @@ The list of accredited countries is available [here](https://ioling.org/countrie
 
 # Registration fees
 
+<div style="width: 80%; margin: auto">
 {{ image_row(category="registration-fees") }}
+</div>
 
 # Registration deadlines
 
 <div class="nospace">
 The registration timeline is as follows:
 
-- Early registration: open until 15 March 2026
+- **Early registration:** open until **15 March 2026**
 
     Full payment must be completed by this deadline in order to benefit from early registration.
 
-- Regular registration: open until 30 April 2026
+- **Regular registration:** open until **30 April 2026**
 
-- Late registration: registrations submitted after 30 April 2026 will incur an additional fee of 1000 RON per team, per month.
+- **Late registration:** registrations submitted after **30 April 2026** will incur an additional fee of **1000 RON per team, per month**.
 </div>
 
 # Visa requirements
