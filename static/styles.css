@@ -314,3 +314,9 @@ footer h1 {
 .button:hover {
     filter: brightness(110%);
 }
+
+.nospace {
+    p {
+        margin: 0;
+    }
+}

@@ -158,3 +158,10 @@ caption="Volunteers at IOL 2025 Taipei"
 [[categories.images]]
 source="/volunteers/volunteers_iol2024.jpg"
 caption="Volunteers at IOL 2024 Brasília"
+
+[[categories]]
+name = "registration-fees"
+
+[[categories.images]]
+source="/registration/Fees_RO.png"
+caption=""
