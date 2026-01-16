@@ -16,7 +16,7 @@ build_search_index = true
 
 [extra]
 # Put all your custom variables here
-juice_logo_path = "favicon.png"
+juice_logo_path = "hero/logo.png"
 juice_logo_name = "IOL 2026"
 
 juice_exclude_menu = [
