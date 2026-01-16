@@ -6,7 +6,11 @@ weight = 2
 
 # How to register
 
-Registration will be done through the Registration System. A link will be provided here once it opens. Details about account creation will be provided before then.
+Registration will be done through the Registration System, which can be accessed at the link below:
+
+{{ button(link="https://iol2026-regsy.ioling.org/", text="Registration System") }}
+
+To obtain an invitation code, which is required when registering an account, contact <a href="mailto:iol2026ro@gmail.com">iol2026ro@gmail.com</a>.
 
 ## Accredited countries
 
@@ -14,11 +18,23 @@ The list of accredited countries is available [here](https://ioling.org/countrie
 
 # Registration fees
 
-Details about fees will be available shortly.
+<div style="width: 80%; margin: auto">
+{{ image_row(category="registration-fees") }}
+</div>
 
 # Registration deadlines
 
-Details about deadlines will be available shortly.
+<div class="nospace">
+The registration timeline is as follows:
+
+- **Early registration:** open until **15 March 2026**
+
+    Full payment must be completed by this deadline in order to benefit from early registration.
+
+- **Regular registration:** open until **30 April 2026**
+
+- **Late registration:** registrations submitted after **30 April 2026** will incur an additional fee of **1000 RON per team, per month**.
+</div>
 
 # Visa requirements
 
