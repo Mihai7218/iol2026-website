@@ -18,4 +18,4 @@ The first step in the selection process consists in completing the volunteer app
 
 {{ button(link="https://forms.gle/SbZnvxPNxqMHYTXn8", text="Volunteer application form") }}
 
-Applications are open from **January 6th** to **February 1st 2026**.
+Submission deadline: **1<sup>st</sup> of February 2026**, 23:59 Romanian time (GMT+2).
