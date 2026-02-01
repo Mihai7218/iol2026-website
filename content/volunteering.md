@@ -4,7 +4,7 @@ description = "Volunteering"
 weight = 7
 +++
  
-The volunteer application form has been closed as of February 2<sup>nd</sup> 2026, 00:00 Romanian time (GMT+2).. Thank you to everyone who applied!
+The volunteer application form has been closed as of February 2<sup>nd</sup> 2026, 00:00 Romanian time (GMT+2). Thank you to everyone who applied!
 
 Updates regarding the selection process will be communicated to the applicants via email.
 
