@@ -1,0 +1,326 @@
+h1, h2 {
+    font-weight: bold;
+}
+.text-900 {
+    font-weight: 900;
+}
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.logo {
+    font-family: Lora;
+    font-weight: bold;
+}
+
+#header-offset {
+    flex: 0 0 auto;
+    width: 100%;
+}
+.hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+}
+.banner {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.banner-ribbon {
+    flex: 0 0 auto;
+    width: 100%;
+    max-width: 100%;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
+    background-image: url("hero/ribbon_long.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+.banner-content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+}
+.banner-image-container {
+    flex: 0 0 40%;
+    max-width: 100%;
+}
+.banner-image {
+    width: 85%;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.banner-info {
+    flex: 0 0 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-info h1 {
+    border-left: 0;
+}
+.banner-hora {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    max-width: 85%;
+}
+.banner-countdown {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+    padding-top: 1em;
+}
+.banner-countdown div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.banner-countdown span {
+    font-family: Lora;
+    font-weight: 600;
+    color: var(--primary-text-color);
+    font-size: 1em;
+    padding-bottom: 0.5em;
+}
+.banner-countdown .countdown-item {
+    font-size: 1.5em;
+}
+@media (max-width: 768px) {
+    .banner-image-container,
+    .banner-info {
+        flex: 0 0 100%;
+        width: 100%;
+        text-align: center;
+        align-items: center;
+    }
+    .banner-info img {
+        max-width: 90%;
+        height: auto;
+    }
+    .banner-ribbon {
+        background-image: url("hero/ribbon_short.png");
+    }
+    .banner-hora {
+        max-width: 100%;
+    }
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+footer h1 {
+    border-left: 0px;
+    color: #735659;
+}
+.copyright {
+    font-size: large;
+    text-align: center;
+}
+.organisations-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.organisations-list img {
+    max-height: 80px;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+    flex-shrink: 1;
+}
+@media (max-width: 768px) {
+    .copyright {
+        font-size: medium;
+    }
+    .organisations-list img {
+        max-height: 100px;
+    }
+}
+
+.warning-visas {
+    width: 95%;
+    margin: 0 auto;
+    padding-left: 10px;
+    background-color: #B3393920;
+    border-left: 5px;
+    border-left-style: solid;
+    border-radius: 5px;
+    border-left-color: #B33939;
+}
+
+.figure-row {
+    display: flex;
+    gap: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    justify-content: center;
+    align-items: flex-start;
+}
+.centered-figure {
+    margin: 0;
+    flex: 1 1 auto;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.centered-figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.figure-captions {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+}
+.figure-caption {
+    text-align: center;
+    font-size: medium;
+    line-height: normal;
+    margin-top: 1em;
+}
+.figure-source {
+    text-align: center;
+    font-size: small;
+    line-height: normal;
+    margin-top: 0.5em;
+}
+@media (max-width: 768px) {
+    .figure-row {
+        flex-wrap: wrap;
+    }
+    .figure-row figure {
+        flex: 1 1 100%;
+        max-width: 100%;
+    }
+}
+
+.person-name {
+    margin: 0 0.75rem;
+    font-size: 1.5rem;
+    font-weight: 900;
+    white-space: nowrap;
+}
+
+.person-role {
+    color: var(--primary-text-color-c0);
+    font-style: italic;
+}
+
+.people-desc {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: 1rem;
+    border-radius: 0.5rem;
+    background-color: var(--primary-color);
+    
+    details {
+        display: flex;
+        flex-direction: column;
+        margin: 1rem;
+        align-items: left;
+
+        summary {
+            display: flex;
+            margin: 0 1rem;
+            flex-direction: row;
+            align-items: center;
+        }
+    }
+
+
+    .person-photo {
+        border-radius: 9999px;
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .person-bio {
+        margin: 1rem 2.5rem;
+        padding-left: 5.5rem;
+    }
+} 
+
+.people-min {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 0.5rem;
+
+    background-color: var(--primary-color);
+    
+    .person-min {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin: 1rem;
+        align-items: center;
+
+
+        summary {
+            display: flex;
+            margin: 1rem;
+            flex-direction: row;
+            align-items: center;
+        }
+    }
+
+    .person-photo {
+        border-radius: 9999px;
+        width: 10rem;
+        height: 10rem;
+    }
+} 
+
+.button-paragraph {
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.button {
+    background-color: var(--primary-link-color);
+    padding: 1rem;
+    border-radius: 1rem;
+    transition-duration: 0.3s;
+}
+.button:hover {
+    filter: brightness(110%);
+}
+
+.nospace {
+    p {
+        margin: 0;
+    }
+}
