@@ -4,7 +4,11 @@ description = "Volunteering"
 weight = 7
 +++
  
-If you are excited by the idea of joining an amazing team of volunteers in Bucharest and creating an incredible event for young students fascinated by linguistics, consider volunteering at IOL 2026!
+The volunteer application form has been closed as of February 2<sup>nd</sup> 2026, 00:00 Romanian time (GMT+2).. Thank you to everyone who applied!
+
+Updates regarding the selection process will be communicated to the applicants via email.
+
+<!-- If you are excited by the idea of joining an amazing team of volunteers in Bucharest and creating an incredible event for young students fascinated by linguistics, consider volunteering at IOL 2026!
 
 {{ image_row(category="past-volunteers") }}
 
@@ -22,4 +26,4 @@ The first step in the selection process consists in completing the volunteer app
 
 {{ button(link="https://forms.gle/SbZnvxPNxqMHYTXn8", text="Volunteer application form") }}
 
-Submission deadline: **1<sup>st</sup> of February 2026**, 23:59 Romanian time (GMT+2).
+Submission deadline: **1<sup>st</sup> of February 2026**, 23:59 Romanian time (GMT+2). -->
