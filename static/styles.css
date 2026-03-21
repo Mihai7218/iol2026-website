@@ -137,6 +137,17 @@ footer h1 {
     font-size: large;
     text-align: center;
 }
+.organizations-layout {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.organizations-column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
 .organisations-list {
     display: flex;
     flex-direction: row;
@@ -154,6 +165,9 @@ footer h1 {
 @media (max-width: 768px) {
     .copyright {
         font-size: medium;
+    }
+    .organizations-layout {
+        flex-wrap: wrap;
     }
     .organisations-list img {
         max-height: 100px;
