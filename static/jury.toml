@@ -43,7 +43,8 @@ bio="Studied Linguistics at Eötvös Loránd University Budapest (BA) and the Un
 name="Boris Iomdin"
 pc_year = "2003"
 photo="jury/BI.jpeg"
-bio="Linguist specializing in lexicography and semantics, teaching linguistics and languages to children, high school, and university students in Russian, English, German, and Hebrew. Author of hundreds of linguistic problems, including 17 at the IOL. A fan of playing linguistic games, reading books, and researching linguistic games in books. www.borisiomdin.com"
+bio="Linguist specializing in lexicography and semantics, teaching linguistics and languages to children, high school, and university students in Russian, English, German, and Hebrew. Author of hundreds of linguistic problems, including 17 at the IOL. A fan of playing linguistic games, reading books, and researching linguistic games in books."
+website = "www.borisiomdin.com"
 
 [[person]]
 name="Bruno L'Astorina"
@@ -56,7 +57,8 @@ name="Dan-Mircea Mirea"
 pc_year = "2019"
 contest_year = "2014 and 2015"
 photo="jury/DM.png"
-bio="PhD candidate in Psychology at Princeton University, Bachelor's and Masters' from University of Cambridge. Romanian LO member since 2015, and former Chair of the Romanian PC. Linguistics & psychology content creator @danniesbrain on TikTok and Instagram. Avid singer, fan of board games, and pop/internet culture enthusiast. www.dan-mirea.com"
+bio="PhD candidate in Psychology at Princeton University, Bachelor's and Masters' from University of Cambridge. Romanian LO member since 2015, and former Chair of the Romanian PC. Linguistics & psychology content creator @danniesbrain on TikTok and Instagram. Avid singer, fan of board games, and pop/internet culture enthusiast."
+website="www.dan-mirea.com"
 
 [[person]]
 name="Daniel Rucki"
@@ -135,7 +137,8 @@ bio="Moscow Traditional Linguistics Olympiad Problem Committee member since 1997
 name="Milena Veneva"
 pc_year = "2013"
 photo="jury/MV.jpg"
-bio="Master of Science in Applied Mathematics (Sofia University). Applied mathematician. Bulgarian National Olympiad in Linguistics Problem Committee member since 2010. Author/co-author of dozens of linguistic problems assigned at the national olympiads worldwide, as well as 5 given at the IOL. https://bg.linkedin.com/in/mveneva"
+bio="Master of Science in Applied Mathematics (Sofia University). Applied mathematician. Bulgarian National Olympiad in Linguistics Problem Committee member since 2010. Author/co-author of dozens of linguistic problems assigned at the national olympiads worldwide, as well as 5 given at the IOL."
+website="www.linkedin.com/in/mveneva"
 
 [[person]]
 name="Tung-Le Pan"
