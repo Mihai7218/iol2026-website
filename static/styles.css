@@ -222,53 +222,6 @@ footer h1 {
     }
 }
 
-.person-name {
-    margin: 0 0.75rem;
-    font-size: 1.5rem;
-    font-weight: 900;
-    white-space: nowrap;
-}
-
-.person-role {
-    color: var(--primary-text-color-c0);
-    font-style: italic;
-}
-
-.people-desc {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    margin: 1rem;
-    border-radius: 0.5rem;
-    background-color: var(--primary-color);
-    
-    details {
-        display: flex;
-        flex-direction: column;
-        margin: 1rem;
-        align-items: left;
-
-        summary {
-            display: flex;
-            margin: 0 1rem;
-            flex-direction: row;
-            align-items: center;
-        }
-    }
-
-
-    .person-photo {
-        border-radius: 9999px;
-        width: 6rem;
-        height: 6rem;
-    }
-
-    .person-bio {
-        margin: 1rem 2.5rem;
-        padding-left: 5.5rem;
-    }
-} 
-
 .people-min {
     display: flex;
     flex-direction: row;
@@ -278,25 +231,24 @@ footer h1 {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border-radius: 0.5rem;
-
     background-color: var(--primary-color);
-    
     .person-min {
         display: flex;
         flex-direction: column;
         gap: 0.5rem;
         margin: 1rem;
         align-items: center;
-
-
-        summary {
-            display: flex;
-            margin: 1rem;
-            flex-direction: row;
-            align-items: center;
-        }
     }
-
+    .person-name {
+        margin: 0 0.75rem;
+        font-size: 1.5rem;
+        font-weight: 900;
+        white-space: nowrap;
+    }
+    .person-role {
+        color: var(--primary-text-color-c0);
+        font-style: italic;
+    }
     .person-photo {
         border-radius: 9999px;
         width: 10rem;
@@ -322,5 +274,55 @@ footer h1 {
 .nospace {
     p {
         margin: 0;
+    }
+}
+
+.people-div {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: no-wrap;
+    justify-content: space-between;
+    margin: 1rem 0;
+    border-radius: 0.5rem;
+    background-color: var(--primary-color);
+    .person-div {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: no-wrap;
+        gap: 0.5rem;
+        margin: 1rem;
+        align-items: center;
+    }
+    .person-photo {
+        border-radius: 9999px;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        width: 10rem;
+        height: 10rem;
+    }
+    .person-name {
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+        font-weight: 900;
+    }
+    .person-details {
+        margin: 0.5rem 1rem 0rem;
+    }
+    .person-details p {
+        margin: 0;
+        color: var(--primary-text-color-c0);
+        font-style: italic;
+    }
+    .person-bio {
+        margin: 0.5rem 1rem;
+    }
+}
+@media (max-width: 768px) {
+    .person-div {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    .person-photo {
+        margin-bottom: 1rem;
     }
 }
