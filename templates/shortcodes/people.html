@@ -1,0 +1,28 @@
+{% set people = load_data(path=data) %}
+
+<div class="people-div">
+    {% for person in people.person | sort(attribute="name") %}
+    <div class="person-div">
+        <img class="person-photo" src="{{person.photo}}" />
+        <details>
+            <summary>
+                <span class="person-name">{{person.name}}</span>
+            </summary>
+            <div class="person-details">
+                {% if person.pc_year %}
+                    <p>PC member since {{person.pc_year}}</p>
+                {% endif %}
+                {% if person.contest_year %}
+                    <p>IOL contestant in {{person.contest_year}}</p>
+                {% endif %}
+            </div>
+            {% if person.bio %}
+                <p class="person-bio">{{person.bio}}</p>
+            {% endif %}
+            {% if person.website %}
+                <a class="person-bio" href="https://{{person.website}}">{{person.website}}</a>
+            {% endif %}
+        </details>
+    </div>
+    {% endfor %}
+</div>

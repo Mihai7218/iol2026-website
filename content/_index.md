@@ -7,6 +7,10 @@ weight = 0
 
 # News and Updates
 
+## List of jury members now available!
+
+[*10<sup>th</sup> of April 2026*] - The Jury selection for IOL 2026 has been finalized and the list of International Jury members can be consulted on the [People page](/people/#jury).
+
 ## Registrations now open!
 
 [*16<sup>th</sup> of January 2026*] - The registration system is officially open. Find out more about how to register for IOL 2026 by visiting the [Registration page](/registration).
