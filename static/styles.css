@@ -9,6 +9,10 @@ p {
     text-justify: inter-word;
 }
 
+b,strong {
+    font-weight: 900;
+}
+
 .logo {
     font-family: Lora;
     font-weight: bold;
