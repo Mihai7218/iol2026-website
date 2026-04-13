@@ -22,7 +22,9 @@ During the event, the academic work (distributing the problems, overseeing the e
 
 In addition to the permanent bodies and to the LOC, running the actual IOL involves a lot of hands-on activities, performed by a group of national and international volunteers – working especially in coordinating, escorting and concierge-ing the students, but also preparing activities, distributing materials and keeping the flow and the energy of daily-life at IOL.
 
-*The list of volunteers for IOL 2026 will be shown here once the volunteer selection is finalized.*
+The list of local and international volunteers for IOL 2026 is given below:
+
+{{ people(data="static/volunteers.toml") }}
 
 # Participants
 

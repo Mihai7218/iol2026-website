@@ -12,6 +12,9 @@
                 {% endif %}
             </summary>
             <div class="person-details">
+                {% if person.country %}
+                    <p>{{person.country}}</p>
+                {% endif %}
                 {% if person.pc_year %}
                     <p>PC member since {{person.pc_year}}</p>
                 {% endif %}
