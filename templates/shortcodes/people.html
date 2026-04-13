@@ -1,12 +1,15 @@
 {% set people = load_data(path=data) %}
 
 <div class="people-div">
-    {% for person in people.person | sort(attribute="name") %}
+    {% for person in people.person %}
     <div class="person-div">
         <img class="person-photo" src="{{person.photo}}" />
         <details>
             <summary>
                 <span class="person-name">{{person.name}}</span>
+                {% if person.role %}
+                    <span class="person-role">&#8212; {{person.role}}</span>
+                {% endif %}
             </summary>
             <div class="person-details">
                 {% if person.pc_year %}

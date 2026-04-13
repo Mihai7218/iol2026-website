@@ -305,6 +305,12 @@ footer h1 {
         font-size: 1.5rem;
         font-weight: 900;
     }
+    .person-role {
+        color: var(--primary-text-color-c0);
+        font-size: 1.25rem;
+        font-weight: 600;
+        font-style: italic;
+    }
     .person-details {
         margin: 0.5rem 1rem 0rem;
     }
@@ -323,6 +329,17 @@ footer h1 {
         justify-content: space-around;
     }
     .person-photo {
+        display: block;
         margin-bottom: 1rem;
+    }
+    .person-div summary {
+        text-align: center;
+    }
+    .person-div details {
+        width: 100%;
+    }
+    .person-role {
+        display: block;
+        margin: auto;
     }
 }
