@@ -14,7 +14,7 @@ The **Local Organizing Committee** (LOC) is responsible for planning and executi
 
 The academic nucleus of IOL is the **Problem Committee** (PC), a permanent body composed of researchers, teachers and former participants, all experienced solvers, testers and composers of the genre of self-sufficient linguistics problems. The PC works the whole year in the multilingual composition of the problems, in order to guarantee that all language versions of the problems are functionally equal. You can learn more about the PC [here](https://ioling.org/pc/).
 
-During the event, the academic work (distributing the problems, overseeing the exams, marking the papers, presenting solutions, giving awards) is done by an **International Jury**, composed by members drawn from the PC. The list of Jury members for IOL 2026 can be consulted below:
+During the event, the academic work (distributing the problems, overseeing the exams, marking the papers, presenting solutions, giving awards) is carried out by an **International Jury**, composed of Jurors drawn from the PC. The Jury’s academic work is led by the **Jury Chair**, while the **Jury Coordinator** ensures the Jury’s welfare and smooth operation. The list of Jury members for IOL 2026 is given below:
 
 {{ people(data="static/jury.toml") }}
 
@@ -22,7 +22,9 @@ During the event, the academic work (distributing the problems, overseeing the e
 
 In addition to the permanent bodies and to the LOC, running the actual IOL involves a lot of hands-on activities, performed by a group of national and international volunteers – working especially in coordinating, escorting and concierge-ing the students, but also preparing activities, distributing materials and keeping the flow and the energy of daily-life at IOL.
 
-*The list of volunteers for IOL 2026 will be shown here once the volunteer selection is finalized.*
+The list of local and international volunteers for IOL 2026 is given below:
+
+{{ people(data="static/volunteers.toml") }}
 
 # Participants
 
