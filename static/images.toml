@@ -170,7 +170,7 @@ caption=""
 name = "venues-contest"
 
 [[categories.images]]
-source="https://admitere.unibuc.ro/wp-content/uploads/2023/02/Cladiri-Drept-Exterior-04-scaled.jpg"
+source="/venues/unibuc_drept.jpg"
 caption="Facultatea de Drept"
 source_name="Universitatea din București"
 source_link="https://admitere.unibuc.ro/facultati/"
