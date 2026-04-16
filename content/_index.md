@@ -7,6 +7,10 @@ weight = 0
 
 # News and Updates
 
+## Preliminary schedule and venues information now available!
+
+[*16<sup>th</sup> of April 2026*] - The ***preliminary schedule*** and the ***venues information*** have been added to the website. They can be consulted by visiting the [Schedule](/schedule) and [Venues](/venues) pages.
+
 ## Meet the volunteers!
 
 [*13<sup>th</sup> of April 2026*] - The volunteer selection for IOL 2026 has been finalized and the list of local and international volunteers can be consulted on the [People page](/people/#volunteers).
