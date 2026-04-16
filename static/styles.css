@@ -361,3 +361,19 @@ footer h1 {
         margin: auto;
     }
 }
+.wide-image-scroll {
+    max-width: 100%;
+}
+.wide-image-scroll img {
+    width: 100%;
+}
+@media (max-width: 768px) {
+    .wide-image-scroll {
+        overflow-x: auto;
+        -webkit-overflow-scrolling: touch;
+    }
+    .wide-image-scroll img {
+        width: auto;
+        min-width: 900px;
+    }
+}
