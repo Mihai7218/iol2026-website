@@ -16,7 +16,7 @@ The Individual Contest and Team Contest are scheduled to take place at the *Facu
 
 # Accomodation
 
-<div class="warning-visas" style="margin: 1rem 0; padding: 0.5rem;"><span class="text-900">Important:</span> Check regularly for updates regarding accomodation facilities.</div>
+<div class="warning-visas" style="width: 93%; margin: 1rem 0; padding: 0.5rem;"><span class="text-900">Important:</span> Check regularly for updates regarding accomodation facilities.</div>
 
 ## Park Inn by Radisson
 
