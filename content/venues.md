@@ -16,7 +16,7 @@ The Individual Contest and Team Contest are scheduled to take place at the *Facu
 
 # Accomodation
 
-<div class="warning-visas" style="width: 93%; margin: 1rem 0; padding: 0.5rem;"><span class="text-900">Important:</span> Check regularly for updates regarding accomodation facilities.</div>
+<!-- <div class="warning-visas" style="width: 93%; margin: 1rem 0; padding: 0.5rem;"><span class="text-900">Important:</span> Check regularly for updates regarding accomodation facilities.</div> -->
 
 ## Park Inn by Radisson
 
@@ -33,6 +33,14 @@ The Individual Contest and Team Contest are scheduled to take place at the *Facu
 Located in the heart of Bucharest, on the famous Calea Victoriei Boulevard, ***Radisson Blu Hotel, Bucharest*** stands out for its elegant appearance and modern design. The hotel is just 18 kilometers from the airport and 500 meters from the metro station, so you can easily walk around the city. Nearby you will also find the Romanian Athenaeum Concert Hall and the National Museum of Art.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.6015967409585!2d26.091813775500324!3d44.44133397107567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff4558287611%3A0xa4aad30e54df09c1!2sRadisson%20Blu%20Hotel%20Bucharest!5e0!3m2!1sen!2sro!4v1776293060065!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Grand Hotel Bucharest
+
+{{ image_row(category="accommodation-grand-hotel") }}
+
+Grand Hotel Bucharest, formerly known as Hotel InterContinental is a hotel located in University Square, in the heart of Bucharest. Built during the communist period, the hotel has become one of the most famous and iconic buildings in the city. It is considered a symbol of Romania’s capital because of its impressive architecture and central location. Grand Hotel Bucharest is also one of the tallest buildings in Bucharest and offers beautiful panoramic views of the city.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.8046827141457!2d26.099756375499965!3d44.43716857107565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff47a23beadd%3A0x3bd949d0cdb6cdda!2sGrand%20Hotel%20Bucharest!5e0!3m2!1sen!2sro!4v1777068117301!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 # Transport
 
