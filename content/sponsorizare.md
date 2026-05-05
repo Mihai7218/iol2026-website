@@ -121,7 +121,7 @@ IOL 2026 va aduna la București o audiență internațională de excepție – u
   <tr>
     <td class="bold">Ziua 0</td>
     <td>Sosirea delegațiilor</td>
-    <td>Radisson Blu Bucharest, Grand Hotel Bucharest</td>
+    <td>Hotel</td>
   </tr>
   <tr>
     <td class="bold">Ziua 1</td>
@@ -156,7 +156,7 @@ IOL 2026 va aduna la București o audiență internațională de excepție – u
   <tr>
     <td class="bold">Ziua 7</td>
     <td>Plecarea delegațiilor</td>
-    <td>Radisson Blu Bucharest, Grand Hotel Bucharest</td>
+    <td>Hotel</td>
   </tr>
 </table>
 
