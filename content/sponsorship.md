@@ -135,13 +135,13 @@ IOL 2026 will gather an exceptional international audience in Bucharest – a yo
   </tr>
   <tr>
     <td class="bold">Day 3</td>
-    <td>Activities in Bucharest</td>
-    <td>Palace of Parliament, Village Museum, Cotroceni Palace</td>
+    <td>National excursion</td>
+    <td>Sinaia, Peleș castle, Brașov</td>
   </tr>
   <tr>
     <td class="bold">Day 4</td>
-    <td>National excursion</td>
-    <td>Sinaia, Peleș castle, Brașov</td>
+    <td>Activities in Bucharest</td>
+    <td>Palace of Parliament, Village Museum, Cotroceni Palace</td>
   </tr>
   <tr>
     <td class="bold">Day 5</td>
