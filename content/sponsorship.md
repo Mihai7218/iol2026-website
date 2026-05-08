@@ -11,6 +11,10 @@ weight = 100
         <span>participating countries</span>
     </th>
     <th>
+        <h1>55+</h1>
+        <span>participating teams</span>
+    </th>
+    <th>
         <h1>~390</h1>
         <span>participants</span>
     </th>

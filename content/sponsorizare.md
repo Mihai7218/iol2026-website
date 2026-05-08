@@ -11,6 +11,10 @@ weight = 100
         <span>țări participante</span>
     </th>
     <th>
+        <h1>55+</h1>
+        <span>echipe participante</span>
+    </th>
+    <th>
         <h1>~390</h1>
         <span>participanți</span>
     </th>
