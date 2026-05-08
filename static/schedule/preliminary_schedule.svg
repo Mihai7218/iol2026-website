@@ -1,126 +1,573 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="765" height="311" viewBox="0 0 765 311">
-<defs>
-<clipPath id="clip_1">
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-2-2H1092V431H-2V-2Z"/>
-</clipPath>
-<clipPath id="clip_2">
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-2-2H1092V431H-2V-2Z"/>
-</clipPath>
-<clipPath id="clip_3">
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M233 0H353V9H233V0Z"/>
-</clipPath>
-<clipPath id="clip_4">
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-2-2H1092V431H-2V-2Z"/>
-</clipPath>
-</defs>
-<g>
-<g clip-path="url(#clip_1)">
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-1-1H1091V10H-1V-1Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-1 9H112V60H-1V9Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M111 9H1080V60H111V9Z" fill="#666666"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M1079 9H1091V60H1079V9Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M-1 59H11V430H-1V59Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M10 59H112V420H10V59Z" fill="#999999"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M111 59H233V420H111V59Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M232 59H354V190H232V59Z" fill="#9fc5e8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M353 59H475V190H353V59Z" fill="#ffe599"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M474 59H717V190H474V59Z" fill="#b6d7a8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M716 59H838V190H716V59Z" fill="#ffe599"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M837 59H959V190H837V59Z" fill="#9fc5e8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M958 59H1080V190H958V59Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M1079 59H1091V190H1079V59Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M232 189H354V320H232V189Z" fill="#ea9999"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M353 189H475V320H353V189Z" fill="#ffe599"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M474 189H717V320H474V189Z" fill="#b6d7a8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M716 189H838V320H716V189Z" fill="#ea9999"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M837 189H959V320H837V189Z" fill="#9fc5e8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M958 189H1080V320H958V189Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M1079 189H1091V320H1079V189Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M232 319H354V420H232V319Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M353 319H475V420H353V319Z" fill="#b4a7d6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M474 319H596V420H474V319Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M595 319H717V420H595V319Z" fill="#b6d7a8"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M716 319H959V420H716V319Z" fill="#b4a7d6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M958 319H1080V420H958V319Z" fill="#d9d9d9"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M1079 319H1091V420H1079V319Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" d="M10 419H1091V430H10V419Z" fill="#fcfaf6"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width="1" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#fcfaf6" d="M-.5-1V430M-1 9.5H9M10.5-1V8M-1 35.5H9M-1 59.5H9M-1 189.5H9M-1 319.5H9M-1 419.5H9M10.5 421V430M111.5-1V8M111.5 421V430M232.5-1V8M232.5 421V430M353.5-1V8M353.5 421V430M474.5-1V8M474.5 421V430M595.5-1V8M595.5 421V430M716.5-1V8M716.5 421V430M837.5-1V8M837.5 421V430M958.5-1V8M958.5 421V430M1079.5-1V8M1079.5 421V430M-1-.5H1091M1081 9.5H1091M1081 35.5H1091M1081 59.5H1091M1081 189.5H1091M1081 319.5H1091M1081 419.5H1091M-1 429.5H1091M1090.5-1V430"/>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width="3" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#fcfaf6" d="M10.5 8V421M9 319.5H113M111.5 8V421M232.5 8V421M9 189.5H355M353.5 8V421M474.5 8V421M231 319.5H597M595.5 8V421M716.5 8V421M837.5 8V421M715 189.5H960M715 319.5H960M958.5 8V421M9 9.5H1081M9 35.5H1081M9 59.5H1081M9 419.5H1081M1079.5 8V421"/>
-</g>
-<g clip-path="url(#clip_2)">
-<g clip-path="url(#clip_3)">
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="15.0780119" x="252 259.995 265.36399 270.73298 278.54597 284.85096 288.10096 292.75495 301.13996 308.88795 316.24595 322.97996 329.28495">https://docs.</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M252 16.378012H332.2881"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="31.718026" x="271 278.15 285.508 292.866 300.029 304.085 311.07899">google.</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M271 33.018026H314.10804"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="48.35804" x="238 244.734 252.092 263.766 272.307 278.612 286.425 292.56098 299.55497 306.36698 314.11497 320.41996 328.49296 335.48695 342.48094">com/spreadsheet</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M238 49.65804H347.8371"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="64.998058" x="247 252.75899 261.14399 268.59297 276.97798 283.37397 292.46098 299.38996 306.99497 315.43196 324.37596 332.77397">s/d/e/2PACX-</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M247 66.29806H338.8191"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="81.63807" x="253 258.278 264.882 273.735 283.589 293.638 303.14103 311.21403 316.49205 326.50205">1vRQNVh1Q-</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M253 82.93807H332.62507"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="98.27808" x="251 260.087 268.394 278.937 289.75303 296.29203 305.44404 312.63304 319.17204 327.92103">XPw_zKgzR-</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M251 99.57809H334.04408"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="114.9181" x="239 246.254 253.19599 260.94398 268.37998 275.73799 284.68199 288.71199 298.59199 306.314 314.387 323.474 331.326 338.762">oxd8oCiUkhXL83</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M239 116.2181H346.02909"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="131.55812" x="241 251.153 259.382 272.01799 278.94697 286.79896 295.24894 302.93193 312.81193 320.5079 333.24794 340.2419">wPM2ZBLUZWvj</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M241 132.85813H344.15507"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="148.19814" x="237 247.439 255.512 262.636 266.796 273.39997 282.65599 289.77998 296.79997 308.75996 316.50794 327.32395 334.82493">whxivKx5md_pM</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M237 149.49814H347.43513"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="164.83815" x="248 253.278 263.32704 272.41404 279.90205 285.99903 293.24003 300.975 308.138 315.301 322.62 330.40699">1wX97gpyy9Y-</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M248 166.13816H336.53007"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="181.47817" x="236 241.915 251.717 261.714 269.56599 277.00199 284.30799 292.23799 300.34999 308.11097 316.85997 324.67295 332.70695 340.10395">sUOZ8FuEE/pubh</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M236 182.77817H348.13813"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="198.11818" x="279 284.369 296.32899 300.38499">tml?</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M279 199.41819H306.924"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="214.7582" x="237 244.47499 248.726 256.474 263.364 268.64204 274.739 282.17503 289.45503 296.93003 305.19804 311.29505 318.78306 326.27107 332.36805 341.07804">gid=1783607997&#x0026;s</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M237 216.0582H347.39607"/>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="231.39821" x="260 264.251 272.545 279.708 283.764 290.758 297.648 303.017 309.257 317.291">ingle=true</tspan></text>
-<path transform="matrix(.70183488,0,0,.70183488,0,0)" stroke-width=".65000006" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#ffffff" d="M260 232.69821H324.28504"/>
-</g>
-</g>
-<g clip-path="url(#clip_4)">
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="155 164.789 171.43199 178.59499 182.01399">Day 0</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="277 286.789 293.432 300.595 304.014">Day 1</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="398 407.789 414.432 421.595 425.014">Day 2</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="518 527.789 534.432 541.59506 545.01406">Day 3</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="639 648.789 655.432 662.59506 666.01406">Day 4</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="760 769.789 776.432 783.59506 787.01406">Day 5</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="881 890.789 897.432 904.59506 908.01406">Day 6</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="27.07801" x="1003 1012.789 1019.432 1026.595 1030.0139">Day 7</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="137 143.929 151.404 154.82302 159.07402 167.10802 171.16402 174.19303 177.61203 184.54103 192.80904 199.73804">26 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="259 265.92903 272.026 275.445 279.696 287.73 291.786 294.815 298.234 305.16304 313.43104 320.36006">27 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="379 385.92903 393.36503 396.78404 401.03504 409.06904 413.12504 416.15403 419.57304 426.502 434.77003 441.69905">28 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="500 506.92903 514.417 517.836 522.087 530.121 534.177 537.206 540.625 547.554 555.822 562.75106">29 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="621 628.28 636.54806 639.96707 644.218 652.252 656.30807 659.33706 662.75607 669.68508 677.95309 684.8821">30 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="743 750.28 755.55807 758.97708 763.228 771.262 775.31808 778.34707 781.76608 788.69509 796.9631 803.8921">31 iul. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="865 870.278 873.697 880.50906 888.543 895.78408 898.81307 902.23208 909.1611 917.4291 924.3581">1 aug. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Bold" font-weight="bold"><tspan y="52.07801" x="985 991.929 995.348 1002.16006 1010.19406 1017.43508 1020.46408 1023.88308 1030.812 1039.08 1046.0089">2 aug. 2026</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Regular"><tspan y="129.07802" x="36 47.843004 55.448 61.077005 68.968 72.621 80.512">Morning</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="129.38256" x="147 155.9518 162.14369 168.33559 172.35388 179.43238 186.81118 190.70078">Arrivals</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="120.38255" x="263 274.3542 282.8913 290.6419 299.32203 303.34034 312.02046 319.92835">Opening </tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="138.68242" x="259 268.9957 276.7463 282.85243 290.60304 303.38725 311.75276 320.34709">Ceremony</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="185.38256" x="380 384.6904 393.3705 401.9219 405.94023 413.1617 417.18003 425.7314 434.26853 441.64735 445.53694">Individual </tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="203.68242" x="388 397.9957 406.3612 414.9269 420.461 428.2116 434.83253">Contest</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="194.38256" x="504 513.9957 518.24288 523.79129 531.3417 535.1026 543.5682 551.93368 560.47079">City Tour</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="244.38256" x="623 631.8946 639.4021 647.0097 655.5468 661.7387 668.3596 672.3779 680.7434">Excursion</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="129.38256" x="731 739.4656 747.2019 754.5807 767.36489 771.1258 781.1215 789.487 798.05276 803.58688 811.33749 817.9584">Team Contest</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="120.38255" x="866 874.1081 882.4736 886.36318 894.90029 900.4344 904.4527 912.8182 921.4983 928.1192">Solutions </tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="138.68242" x="856 864.6658 870.77188 878.52249 885.1434 892.894 901.4597 906.99386 914.2868 919.8209 923.83926 932.2047">Presentation</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="244.38256" x="982 992.6535 1000.4041 1008.9412 1016.32 1022.5977 1028.1318 1036.669 1042.775 1050.5256">Departures</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Regular"><tspan y="259.078" x="31 39.138 43.688 48.719 55.765005 61.394006 69.285 76.89001 84.49501">Afternoon</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="300.38255" x="123 131.8946 139.6452 147.8963 151.9146 158.53549 164.0696 170.17569 177.46869 183.00279 187.02109 195.38658 204.06668 207.82758 217.76609">Registration &#x0026; </tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="318.6824" x="123 133.8394 142.2049 147.739 155.4896 159.3792 163.14009 170.7477 179.3134 186.9925 194.6001 201.95029 208.943 212.96129">Hotel check-in</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="259.38255" x="263 271.9518 279.4879 285.022 289.0403 296.2618 300.5089 306.043 310.0613 317.81193">Activities</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="259.38255" x="747 755.9518 763.4879 769.02206 773.04037 780.26187 784.509 790.0431 794.0614 801.812">Activities</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="250.38256" x="872 881.9957 885.8853 894.2508 900.8717 904.89 913.5701 921.478">Closing </tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="268.6824" x="864 873.9957 881.74636 887.8524 895.603 908.3872 916.7527 925.347">Ceremony</tspan></text>
-<text fill="#ffffff" xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="13" font-family="MUFUZY+Lora-Regular"><tspan y="374.078" x="37 44.968999 51.468999 58.515 66.406 70.059 77.95">Evening</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="374.38255" x="262 269.6934 275.7995 283.4786 291.22923 294.9901 300.5242 304.5425 317.32673">Free time</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="374.38255" x="364 377.68513 385.43574 389.32533 396.86143 405.22694 418.01115 425.76176 429.52265 438.10267 445.48149 451.75917 457.30757">Welcome Party</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="374.38255" x="504 511.6934 517.7995 525.47866 533.22927 536.9902 542.5243 546.5426 559.3268">Free time</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="374.38255" x="748 753.1337 760.81289 769.17837 777.71548 785.09426 791.2003 799.6659">Jeopardy</tspan></text>
-<text xml:space="preserve" transform="matrix(.70183488 0 0 .70183488 0 0)" font-size="14.299999" font-family="MUFUZY+Lora-Regular"><tspan y="374.38255" x="851 858.2644 865.6432 871.74929 879.4427 890.7254 898.476 902.3656 906.2552 910.0161 918.59609 925.97488 932.25259 937.80099">Farewell Party</tspan></text>
-</g>
-</g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 1020 414.66666"
+   height="414.66666"
+   width="1020"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath20"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path18"
+         d="M -2,-2 H 1092 V 431 H -2 Z" /></clipPath><clipPath
+       id="clipPath92"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path90"
+         d="M -2,-2 H 1092 V 431 H -2 Z" /></clipPath><clipPath
+       id="clipPath98"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path96"
+         d="M 233,0 H 353 V 9 H 233 Z" /></clipPath><clipPath
+       id="clipPath192"
+       clipPathUnits="userSpaceOnUse"><path
+         id="path190"
+         d="M -2,-2 H 1092 V 431 H -2 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,414.66667)"
+     id="g10"><g
+       transform="matrix(1,0,0,-1,0,311)"
+       id="g12"><g
+         transform="scale(0.70183485)"
+         id="g14"><g
+           clip-path="url(#clipPath20)"
+           id="g16"><path
+             id="path22"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M -1,-1 H 1091 V 10 H -1 Z" /><path
+             id="path24"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M -1,9 H 112 V 60 H -1 Z" /><path
+             id="path26"
+             style="fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 111,9 h 969 V 60 H 111 Z" /><path
+             id="path28"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1079,9 h 12 v 51 h -12 z" /><path
+             id="path30"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M -1,59 H 11 V 430 H -1 Z" /><path
+             id="path32"
+             style="fill:#999999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 10,59 H 112 V 420 H 10 Z" /><path
+             id="path34"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 111,59 H 233 V 420 H 111 Z" /><path
+             id="path36"
+             style="fill:#9fc5e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 232,59 H 354 V 190 H 232 Z" /><path
+             id="path38"
+             style="fill:#ffe599;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 353,59 H 475 V 190 H 353 Z" /><path
+             id="path40"
+             style="fill:#b6d7a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 474,59 H 717 V 190 H 474 Z" /><path
+             id="path42"
+             style="fill:#ffe599;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 716,59 H 838 V 190 H 716 Z" /><path
+             id="path44"
+             style="fill:#9fc5e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 837,59 H 959 V 190 H 837 Z" /><path
+             id="path46"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 958,59 h 122 V 190 H 958 Z" /><path
+             id="path48"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1079,59 h 12 v 131 h -12 z" /><path
+             id="path50"
+             style="fill:#ea9999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 232,189 H 354 V 320 H 232 Z" /><path
+             id="path52"
+             style="fill:#ffe599;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 353,189 H 475 V 320 H 353 Z" /><path
+             id="path54"
+             style="fill:#b6d7a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 474,189 H 717 V 320 H 474 Z" /><path
+             id="path56"
+             style="fill:#ea9999;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 716,189 H 838 V 320 H 716 Z" /><path
+             id="path58"
+             style="fill:#9fc5e8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 837,189 H 959 V 320 H 837 Z" /><path
+             id="path60"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 958,189 h 122 V 320 H 958 Z" /><path
+             id="path62"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1079,189 h 12 v 131 h -12 z" /><path
+             id="path64"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 232,319 H 354 V 420 H 232 Z" /><path
+             id="path66"
+             style="fill:#b4a7d6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 353,319 H 475 V 420 H 353 Z" /><path
+             id="path68"
+             style="fill:#b6d7a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 474,319 H 596 V 420 H 474 Z" /><path
+             id="path70"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 595,319 H 717 V 420 H 595 Z" /><path
+             id="path72"
+             style="fill:#b4a7d6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="M 716,319 H 959 V 420 H 716 Z" /><path
+             id="path74"
+             style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 958,319 h 122 V 420 H 958 Z" /><path
+             id="path76"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 1079,319 h 12 v 101 h -12 z" /><path
+             id="path78"
+             style="fill:#fcfaf6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 10,419 h 1081 v 11 H 10 Z" /><path
+             id="path80"
+             style="fill:none;stroke:#fcfaf6;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M -0.5,-1 V 430 M -1,9.5 H 9 M 10.5,-1 V 8 M -1,35.5 H 9 m -10,24 H 9 m -10,130 H 9 m -10,130 H 9 m -10,100 H 9 m 1.5,1.5 v 9 m 101,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 m 121,-431 v 9 m 0,413 v 9 M -1,-0.5 h 1092 m -10,10 h 10 m -10,26 h 10 m -10,24 h 10 m -10,130 h 10 m -10,130 h 10 m -10,100 h 10 M -1,429.5 H 1091 M 1090.5,-1 v 431" /><path
+             id="path82"
+             style="fill:none;stroke:#fcfaf6;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+             d="M 10.5,8 V 421 M 9,319.5 H 113 M 111.5,8 V 421 M 232.5,8 V 421 M 9,189.5 H 355 M 353.5,8 V 421 M 231,319.5 H 476 M 474.5,8 V 421 M 595.5,8 V 421 M 716.5,8 V 421 M 837.5,8 V 421 M 715,189.5 h 245 m -366,130 H 960 M 958.5,8 V 421 M 9,9.5 H 1081 M 9,35.5 H 1081 M 9,59.5 H 1081 M 9,419.5 H 1081 M 1079.5,8 v 413" /></g></g><g
+         id="g84"><g
+           transform="scale(0.70183486)"
+           id="g86"><g
+             clip-path="url(#clipPath92)"
+             id="g88"><g
+               clip-path="url(#clipPath98)"
+               id="g94"><text
+                 id="text102"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(252,15.078011)"><tspan
+                   id="tspan100"
+                   y="0"
+                   x="0 7.9949999 13.364 18.733 26.546 32.851002 36.101002 40.755001 49.139999 56.888 64.246002 70.980003 77.285004">https://docs.</tspan></text>
+<path
+                 id="path104"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 252,16.378012 h 80.2881" /><text
+                 id="text108"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(271,31.718025)"><tspan
+                   id="tspan106"
+                   y="0"
+                   x="0 7.1500001 14.508 21.865999 29.028999 33.084999 40.078999">google.</tspan></text>
+<path
+                 id="path110"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 271,33.018024 h 43.10803" /><text
+                 id="text114"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(238,48.35804)"><tspan
+                   id="tspan112"
+                   y="0"
+                   x="0 6.7340002 14.092 25.766001 34.306999 40.612 48.424999 54.561001 61.555 68.366997 76.114998 82.419998 90.492996 97.487 104.481">com/spreadsheet</tspan></text>
+<path
+                 id="path116"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 238,49.65804 H 347.8371" /><text
+                 id="text120"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(247,64.998055)"><tspan
+                   id="tspan118"
+                   y="0"
+                   x="0 5.7589998 14.144 21.593 29.978001 36.374001 45.460999 52.389999 59.994999 68.431999 77.375999 85.774002">s/d/e/2PACX-</tspan></text>
+<path
+                 id="path122"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 247,66.29806 h 91.8191" /><text
+                 id="text126"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(253,81.63807)"><tspan
+                   id="tspan124"
+                   y="0"
+                   x="0 5.2779999 11.882 20.735001 30.589001 40.638 50.140999 58.214001 63.492001 73.501999">1vRQNVh1Q-</tspan></text>
+<path
+                 id="path128"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 253,82.93807 h 79.62506" /><text
+                 id="text132"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(251,98.27808)"><tspan
+                   id="tspan130"
+                   y="0"
+                   x="0 9.0869999 17.393999 27.937 38.752998 45.292 54.444 61.632999 68.171997 76.920998">XPw_zKgzR-</tspan></text>
+<path
+                 id="path134"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 251,99.57809 h 83.04407" /><text
+                 id="text138"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(239,114.9181)"><tspan
+                   id="tspan136"
+                   y="0"
+                   x="0 7.2540002 14.196 21.944 29.379999 36.737999 45.681999 49.712002 59.591999 67.314003 75.387001 84.473999 92.325996 99.762001">oxd8oCiUkhXL83</tspan></text>
+<path
+                 id="path140"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 239,116.2181 H 346.02908" /><text
+                 id="text144"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(241,131.55812)"><tspan
+                   id="tspan142"
+                   y="0"
+                   x="0 10.153 18.382 31.018 37.946999 45.799 54.249001 61.931999 71.811996 79.508003 92.248001 99.241997">wPM2ZBLUZWvj</tspan></text>
+<path
+                 id="path146"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 241,132.85812 H 344.15506" /><text
+                 id="text150"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(237,148.19814)"><tspan
+                   id="tspan148"
+                   y="0"
+                   x="0 10.439 18.511999 25.636 29.796 36.400002 45.655998 52.779999 59.799999 71.760002 79.508003 90.323997 97.824997">whxivKx5md_pM</tspan></text>
+<path
+                 id="path152"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 237,149.49814 H 347.43512" /><text
+                 id="text156"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(248,164.83815)"><tspan
+                   id="tspan154"
+                   y="0"
+                   x="0 5.2779999 15.327 24.414 31.902 37.999001 45.240002 52.974998 60.138 67.301003 74.620003 82.406998">1wX97gpyy9Y-</tspan></text>
+<path
+                 id="path158"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 248,166.13815 h 88.53006" /><text
+                 id="text162"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(236,181.47816)"><tspan
+                   id="tspan160"
+                   y="0"
+                   x="0 5.915 15.717 25.714001 33.566002 41.001999 48.307999 56.237999 64.349998 72.111 80.860001 88.672997 96.707001 104.104">sUOZ8FuEE/pubh</tspan></text>
+<path
+                 id="path164"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 236,182.77817 H 348.13812" /><text
+                 id="text168"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(279,198.11818)"><tspan
+                   id="tspan166"
+                   y="0"
+                   x="0 5.369 17.329 21.385">tml?</tspan></text>
+<path
+                 id="path170"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 279,199.41818 h 27.924" /><text
+                 id="text174"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(237,214.7582)"><tspan
+                   id="tspan172"
+                   y="0"
+                   x="0 7.4749999 11.726 19.474001 26.364 31.642 37.738998 45.174999 52.455002 59.93 68.197998 74.294998 81.782997 89.271004 95.367996 104.078">gid=1783607997&amp;s</tspan></text>
+<path
+                 id="path176"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 237,216.0582 H 347.39606" /><text
+                 id="text180"
+                 style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="translate(260,231.39821)"><tspan
+                   id="tspan178"
+                   y="0"
+                   x="0 4.2509999 12.545 19.708 23.764 30.757999 37.647999 43.016998 49.257 57.291">ingle=true</tspan></text>
+<path
+                 id="path182"
+                 style="fill:none;stroke:#ffffff;stroke-width:0.65000004;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 260,232.69821 h 64.28503" /></g></g></g></g><g
+         id="g184"><g
+           transform="scale(0.70183486)"
+           id="g186"><g
+             clip-path="url(#clipPath192)"
+             id="g188"><text
+               id="text196"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(155,27.07801)"><tspan
+                 id="tspan194"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 0</tspan></text>
+<text
+               id="text200"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(277,27.07801)"><tspan
+                 id="tspan198"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 1</tspan></text>
+<text
+               id="text204"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(398,27.07801)"><tspan
+                 id="tspan202"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 2</tspan></text>
+<text
+               id="text208"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(518,27.07801)"><tspan
+                 id="tspan206"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 3</tspan></text>
+<text
+               id="text212"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(639,27.07801)"><tspan
+                 id="tspan210"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 4</tspan></text>
+<text
+               id="text216"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(760,27.07801)"><tspan
+                 id="tspan214"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 5</tspan></text>
+<text
+               id="text220"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(881,27.07801)"><tspan
+                 id="tspan218"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 6</tspan></text>
+<text
+               id="text224"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(1003,27.07801)"><tspan
+                 id="tspan222"
+                 y="0"
+                 x="0 9.7889996 16.431999 23.594999 27.014">Day 7</tspan></text>
+<text
+               id="text228"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(138,52.07801)"><tspan
+                 id="tspan226"
+                 y="0"
+                 x="0 6.9289999 14.404 17.823 23.426001 31.459999 35.515999 38.935001 45.863998 54.132 61.061001">26 Jul 2026</tspan></text>
+<text
+               id="text232"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(260,52.07801)"><tspan
+                 id="tspan230"
+                 y="0"
+                 x="0 6.9289999 13.026 16.445 22.048 30.082001 34.138 37.556999 44.486 52.754002 59.682999">27 Jul 2026</tspan></text>
+<text
+               id="text236"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(380,52.07801)"><tspan
+                 id="tspan234"
+                 y="0"
+                 x="0 6.9289999 14.365 17.784 23.386999 31.421 35.477001 38.896 45.825001 54.092999 61.021999">28 Jul 2026</tspan></text>
+<text
+               id="text240"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(501,52.07801)"><tspan
+                 id="tspan238"
+                 y="0"
+                 x="0 6.9289999 14.417 17.836 23.438999 31.473 35.528999 38.948002 45.876999 54.145 61.074001">29 Jul 2026</tspan></text>
+<text
+               id="text244"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(622,52.07801)"><tspan
+                 id="tspan242"
+                 y="0"
+                 x="0 7.2800002 15.548 18.966999 24.57 32.604 36.66 40.078999 47.007999 55.276001 62.205002">30 Jul 2026</tspan></text>
+<text
+               id="text248"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(744,52.07801)"><tspan
+                 id="tspan246"
+                 y="0"
+                 x="0 7.2800002 12.558 15.977 21.58 29.614 33.669998 37.089001 44.018002 52.285999 59.215">31 Jul 2026</tspan></text>
+<text
+               id="text252"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(866,52.07801)"><tspan
+                 id="tspan250"
+                 y="0"
+                 x="0 5.2779999 8.6969995 17.121 25.155001 32.396 35.814999 42.743999 51.012001 57.941002">1 Aug 2026</tspan></text>
+<text
+               id="text256"
+               style="font-variant:normal;font-weight:bold;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Bold;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(986,52.07801)"><tspan
+                 id="tspan254"
+                 y="0"
+                 x="0 6.9289999 10.348 18.771999 26.806 34.047001 37.466 44.395 52.662998 59.591999">2 Aug 2026</tspan></text>
+<text
+               id="text260"
+               style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(36,129.07802)"><tspan
+                 id="tspan258"
+                 y="0"
+                 x="0 11.843 19.448 25.077 32.967999 36.620998 44.512001">Morning</tspan></text>
+<text
+               id="text264"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(147,129.38255)"><tspan
+                 id="tspan262"
+                 y="0"
+                 x="0 8.9517994 15.143699 21.335598 25.353899 32.432396 39.811195 43.700798">Arrivals</tspan></text>
+<text
+               id="text268"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(263,120.38255)"><tspan
+                 id="tspan266"
+                 y="0"
+                 x="0 11.354199 19.891298 27.641897 36.321999 40.340298 49.020397 56.928295">Opening </tspan></text>
+<text
+               id="text272"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(259,138.68242)"><tspan
+                 id="tspan270"
+                 y="0"
+                 x="0 9.9956989 17.746298 23.852398 31.602999 44.387196 52.752697 61.346996">Ceremony</tspan></text>
+<text
+               id="text276"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(380,185.38255)"><tspan
+                 id="tspan274"
+                 y="0"
+                 x="0 4.6903996 13.370499 21.921898 25.940199 33.161697 37.179996 45.731396 54.268497 61.647297 65.536896">Individual </tspan></text>
+<text
+               id="text280"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(388,203.68242)"><tspan
+                 id="tspan278"
+                 y="0"
+                 x="0 9.9956989 18.361198 26.926899 32.460999 40.211597 46.832497">Contest</tspan></text>
+<text
+               id="text284"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(502,244.38255)"><tspan
+                 id="tspan282"
+                 y="0"
+                 x="0 8.894599 16.4021 24.009699 32.546799 38.738697 45.359596 49.377895 57.743397">Excursion</tspan></text>
+<text
+               id="text288"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(625,194.38255)"><tspan
+                 id="tspan286"
+                 y="0"
+                 x="0 9.9956989 14.242799 19.791199 27.341599 31.102497 39.568096 47.933598 56.470695">City Tour</tspan></text>
+<text
+               id="text292"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(731,129.38255)"><tspan
+                 id="tspan290"
+                 y="0"
+                 x="0 8.4655991 16.201899 23.580698 36.364899 40.125797 50.121498 58.486996 67.052696 72.586792 80.337395 86.958298">Team Contest</tspan></text>
+<text
+               id="text296"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(866,120.38255)"><tspan
+                 id="tspan294"
+                 y="0"
+                 x="0 8.108099 16.473598 20.363199 28.900297 34.434399 38.452698 46.818195 55.498295 62.119194">Solutions </tspan></text>
+<text
+               id="text300"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(856,138.68242)"><tspan
+                 id="tspan298"
+                 y="0"
+                 x="0 8.6657991 14.771899 22.522499 29.143398 36.893997 45.459698 50.993797 58.286797 63.820896 67.839195 76.204697">Presentation</tspan></text>
+<text
+               id="text304"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(982,244.38255)"><tspan
+                 id="tspan302"
+                 y="0"
+                 x="0 10.6535 18.404099 26.941198 34.319996 40.597698 46.131798 54.668896 60.774994 68.525597">Departures</tspan></text>
+<text
+               id="text308"
+               style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(31,259.078)"><tspan
+                 id="tspan306"
+                 y="0"
+                 x="0 8.1379995 12.688 17.719 24.764999 30.393999 38.285 45.889999 53.494999">Afternoon</tspan></text>
+<text
+               id="text312"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(123,300.38254)"><tspan
+                 id="tspan310"
+                 y="0"
+                 x="0 8.894599 16.645199 24.896297 28.914598 35.535496 41.069595 47.175697 54.468697 60.002796 64.021095 72.386597 81.066696 84.827591 94.76609">Registration &amp; </tspan></text>
+<text
+               id="text316"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(123,318.6824)"><tspan
+                 id="tspan314"
+                 y="0"
+                 x="0 10.839399 19.204899 24.738998 32.489597 36.379196 40.140099 47.747696 56.313396 63.992496 71.600098 78.950294 85.942993 89.961296">Hotel check-in</tspan></text>
+<text
+               id="text320"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(263,259.38254)"><tspan
+                 id="tspan318"
+                 y="0"
+                 x="0 8.9517994 16.4879 22.021999 26.040298 33.261799 37.508896 43.042995 47.061298 54.811897">Activities</tspan></text>
+<text
+               id="text324"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(747,259.38254)"><tspan
+                 id="tspan322"
+                 y="0"
+                 x="0 8.9517994 16.4879 22.021999 26.040298 33.261799 37.508896 43.042995 47.061298 54.811897">Activities</tspan></text>
+<text
+               id="text328"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(872,250.38255)"><tspan
+                 id="tspan326"
+                 y="0"
+                 x="0 9.9956989 13.885299 22.250799 28.871698 32.889999 41.570099 49.477997">Closing </tspan></text>
+<text
+               id="text332"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(864,268.6824)"><tspan
+                 id="tspan330"
+                 y="0"
+                 x="0 9.9956989 17.746298 23.852398 31.602999 44.387196 52.752697 61.346996">Ceremony</tspan></text>
+<text
+               id="text336"
+               style="font-variant:normal;font-weight:normal;font-size:13px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(37,374.078)"><tspan
+                 id="tspan334"
+                 y="0"
+                 x="0 7.9689999 14.469 21.514999 29.406 33.058998 40.950001">Evening</tspan></text>
+<text
+               id="text340"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(262,374.38254)"><tspan
+                 id="tspan338"
+                 y="0"
+                 x="0 7.6933994 13.7995 21.478598 29.229198 32.990097 38.524197 42.542496 55.326694">Free time</tspan></text>
+<text
+               id="text344"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(364,374.38254)"><tspan
+                 id="tspan342"
+                 y="0"
+                 x="0 13.685099 21.435698 25.325298 32.861397 41.226898 54.011097 61.761696 65.522598 74.102592 81.481392 87.759094 93.307495">Welcome Party</tspan></text>
+<text
+               id="text348"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(625,374.38254)"><tspan
+                 id="tspan346"
+                 y="0"
+                 x="0 7.6933994 13.7995 21.478598 29.229198 32.990097 38.524197 42.542496 55.326694">Free time</tspan></text>
+<text
+               id="text352"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(748,374.38254)"><tspan
+                 id="tspan350"
+                 y="0"
+                 x="0 5.1336994 12.812799 21.178299 29.715399 37.094196 43.200298 51.665897">Jeopardy</tspan></text>
+<text
+               id="text356"
+               style="font-variant:normal;font-weight:normal;font-size:14.29999924px;font-family:Lora;-inkscape-font-specification:Lora-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               transform="translate(851,374.38254)"><tspan
+                 id="tspan354"
+                 y="0"
+                 x="0 7.2643995 14.643199 20.749298 28.442698 39.725399 47.475998 51.365597 55.255196 59.016094 67.596092 74.974892 81.252594 86.800995">Farewell Party</tspan></text>
+</g></g></g></g></g></svg>
