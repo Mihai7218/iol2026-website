@@ -139,18 +139,18 @@ IOL 2026 va aduna la București o audiență internațională de excepție – u
   </tr>
   <tr>
     <td class="bold">Ziua 3</td>
-    <td>Excursie națională</td>
-    <td>Sinaia, Castelul Peleș, Brașov</td>
-  </tr>
-  <tr>
-    <td class="bold">Ziua 4</td>
     <td>Activități în București</td>
     <td>Palatul Parlamentului, Muzeul Satului, Palatul Cotroceni</td>
   </tr>
   <tr>
-    <td class="bold">Ziua 5</td>
+    <td class="bold">Ziua 4</td>
     <td>Proba pe echipe (4 ore)</td>
     <td>Facultatea de Drept, Universitatea din București</td>
+  </tr>
+  <tr>
+    <td class="bold">Ziua 5</td>
+    <td>Excursie națională</td>
+    <td>Sinaia, Castelul Peleș, Brașov</td>
   </tr>
   <tr>
     <td class="bold">Ziua 6</td>
