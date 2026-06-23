@@ -11,12 +11,6 @@ photo="volunteers/AS.jpg"
 bio="Hi, I'm Alexia! I study linguistics in the UK, and I love phonology and computational linguistics. This is my first time volunteering in the IOL, and I can't wait to meet everyone and make this a memorable experience."
 
 [[person]]
-name="Alexia Stănică"
-country="Romania"
-photo="volunteers/AT.jpg"
-bio="Hi everybody! This is my first time taking part in this olympiad, so I'm very excited! My main and dearest passion is volunteering. I love being with those around me, doing them good, helping each other out! I listen to music on vinyl, especially rock, as you see in my picture, I like theater, running, and honest, authentic people."
-
-[[person]]
 name="Andreea Dijmărescu"
 country="Romania"
 photo="volunteers/AD.jpg"
@@ -62,6 +56,12 @@ name="Manoela Ferraz"
 country="Brazil"
 photo="volunteers/MF.jpg"
 bio="Hi, I'm Manoela :) I have been a contestant at IOL in 2022 and 2023, and I am so excited to join the volunteering team this year! In college I study Cognitive Science and Philosophy (both with bits of linguistics haha), and I also love to hike and run, climb, knit and crochet, and cook. Welcome to IOL!!!"
+
+[[person]]
+name="Maya Janzen"
+country="Canada"
+photo="volunteers/MJ.PNG"
+bio="Hi, I'm Maya! I was a contestant at IOL 2024 in Brazil, and have been involved with the Canadian Francophone Linguistics Olympiad since then. I am currently studying engineering (hopefully with a linguistics minor), and I enjoy reading, playing my fiddle or my flute, cycling, and baking. I can't wait to meet you all at IOL 2026!"
 
 [[person]]
 name="Oscar Bovenizer"
