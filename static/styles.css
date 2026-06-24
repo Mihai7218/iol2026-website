@@ -32,10 +32,16 @@ b,strong {
     font-weight: bold;
 }
 
-#header-offset {
-    flex: 0 0 auto;
-    width: 100%;
+header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
 }
+
+.toc-sticky {
+    top: 120px;
+}
+
 .hero {
     display: flex;
     flex-direction: column;
