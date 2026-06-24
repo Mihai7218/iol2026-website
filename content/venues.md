@@ -14,6 +14,16 @@ The Individual Contest and Team Contest are scheduled to take place at the *Facu
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.8984718927513!2d26.079502075244662!3d44.43524480150239!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff5dbe3c333b%3A0x5c6d6e1b0280e6b!2sThe%20Faculty%20of%20Law!5e0!3m2!1sen!2sro!4v1776287687879!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+# Opening ceremony
+
+The official opening ceremony is scheduled to take place at the *Palace of Parliament* (Palatul Parlamentului).
+
+{{ image_row(category="venues-opening") }}
+
+*The Palace of Parliament* in Bucharest is one of the largest and most impressive administrative buildings in the world. Constructed during the 1980s under the rule of Nicolae Ceaușescu, the enormous structure was designed to symbolize the power and authority of the Romanian state. Built primarily from Romanian materials, including marble, crystal, wood, and textiles, the palace contains hundreds of rooms, grand halls, and extensive underground levels. Today, it serves as the seat of the Romanian Parliament and is a major tourist attraction, drawing visitors from around the world because of its monumental architecture and historical significance. The building stands as both a remarkable engineering achievement and a reminder of Romania’s communist past.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2125.8267651822803!2d26.08477031045968!3d44.427507301889705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff427bee28c1%3A0x2b1089f802abaddc!2sPalace%20of%20Parliament!5e1!3m2!1sen!2sro!4v1782320790931!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 # Accomodation
 
 <!-- <div class="warning-visas" style="width: 93%; margin: 1rem 0; padding: 0.5rem;"><span class="text-900">Important:</span> Check regularly for updates regarding accomodation facilities.</div> -->
@@ -42,10 +52,15 @@ Grand Hotel Bucharest, formerly known as Hotel InterContinental is a hotel locat
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2848.8046827141457!2d26.099756375499965!3d44.43716857107565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff47a23beadd%3A0x3bd949d0cdb6cdda!2sGrand%20Hotel%20Bucharest!5e0!3m2!1sen!2sro!4v1777068117301!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+## Novotel Bucharest City Centre
+
+{{ image_row(category="accommodation-novotel") }}
+
+The Novotel Bucharest City Centre is a modern 4-star hotel located in the heart of Bucharest, Romania, on the famous Calea Victoriei boulevard, just a short walk from the Old Town (Lipscani). Housed behind the historic neoclassical façade of the former National Theatre of Romania, the hotel combines contemporary design with an important architectural landmark. Thanks to its central location, the Novotel Bucharest City Centre offers easy access to major attractions such as the Old Town, Cişmigiu Gardens, museums, shopping areas, and public transport links.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4250.9712069722245!2d26.094702810460298!3d44.43688720127466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b1ff469733ece1%3A0x1cfb27c46b7c95d2!2sNovotel%20Bucharest%20City%20Centre!5e1!3m2!1sen!2sro!4v1782319560369!5m2!1sen!2sro" width="100%" height="300px" style="border:0; margin:1rem 0" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+
 # Transport
 
 Delegations are expected to arrive either at ***Bucharest Henri Coandă International Airport (OTP)*** or the smaller ***Aurel Vlaicu Airport (BBU)***, from which bus/train transfer will be provided by the LOC. For attendees arriving at the ***Bucharest North railway station***, pick-up and transfer will be organized separetly. Other pick-up/transfer options might be possible, but not guaranteed, so please inform the LOC on any such special request.
 
-# Opening and closing ceremonies
-
-*Information about the ceremony venues will be updated as they are confirmed.*

@@ -182,6 +182,21 @@ source_name="Locurile Culturii"
 source_link="https://www.societateamuzicala.ro/locurileculturii/aula-palatului-facultatii-de-drept/"
 
 [[categories]]
+name="venues-opening"
+
+[[categories.images]]
+source="/venues/parlament-1.jpg"
+caption="Palace of Parliament"
+source_name="Palace of the Parliament"
+source_link="https://palaceofparliament.com"
+
+[[categories.images]]
+source="/venues/parlament-2.jpg"
+caption="Senate room"
+source_name="Palace of the Parliament"
+source_link="https://palaceofparliament.com"
+
+[[categories]]
 name="accommodation-park-inn"
 
 [[categories.images]]
@@ -225,3 +240,18 @@ source="https://lh3.googleusercontent.com/p/AF1QipNNYShlLOas56df4c-fRuN6M8hAHFLc
 caption="Panoramic View"
 source_name="Grand Hotel Bucharest"
 source_link="https://www.grandhotelbucharest.com"
+
+[[categories]]
+name="accommodation-novotel"
+
+[[categories.images]]
+source="https://www.novotelbucharestcitycentre.com/wp-content/uploads/sites/26/2022/11/1_Exterior-1.jpg"
+caption="Hotel Exterior"
+source_name="Novotel Bucharest City Centre"
+source_link="https://www.novotelbucharestcitycentre.com"
+
+[[categories.images]]
+source="https://www.novotelbucharestcitycentre.com/wp-content/uploads/sites/26/2022/11/Lobby-1.jpg"
+caption="Lobby"
+source_name="Novotel Bucharest City Centre"
+source_link="https://www.novotelbucharestcitycentre.com"
