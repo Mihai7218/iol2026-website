@@ -466,3 +466,12 @@ footer h1 {
         gap: 0.5rem;
     }
 }
+
+.country-list {
+    column-width: 200px;
+    column-gap: 2rem;
+}
+
+.country-list li {
+    break-inside: avoid;
+}

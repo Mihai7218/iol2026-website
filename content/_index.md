@@ -7,6 +7,10 @@ weight = 0
 
 # News and Updates
 
+## Participating delegations list now available!
+
+[*30<sup>th</sup> of June 2026*] - The list of ***participating delegations*** for IOL 2026 has been added to the website. It can be consulted by visiting the [People](/people/#participants) page.
+
 ## Preliminary schedule and venues information now available!
 
 [*16<sup>th</sup> of April 2026*] - The ***preliminary schedule*** and the ***venues information*** have been added to the website. They can be consulted by visiting the [Schedule](/schedule) and [Venues](/venues) pages.
@@ -19,9 +23,9 @@ weight = 0
 
 [*10<sup>th</sup> of April 2026*] - The Jury selection for IOL 2026 has been finalized and the list of International Jury members can be consulted on the [People page](/people/#jury).
 
-## Registrations now open!
+<!-- ## Registrations now open!
 
-[*16<sup>th</sup> of January 2026*] - The registration system is officially open. Find out more about how to register for IOL 2026 by visiting the [Registration page](/registration).
+[*16<sup>th</sup> of January 2026*] - The registration system is officially open. Find out more about how to register for IOL 2026 by visiting the [Registration page](/registration). -->
 
 <!-- ## Volunteering applications now open!
 

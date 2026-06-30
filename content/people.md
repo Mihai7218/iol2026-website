@@ -8,7 +8,8 @@ weight = 6
 
 The **Local Organizing Committee** (LOC) is responsible for planning and executing all on-site aspects of the event. Its role includes coordinating logistics such as venues, accommodation, transportation, and technical infrastructure, as well as supporting the academic program. The LOC also ensures participants’ safety and well-being, manages volunteers, and represents the host country’s culture and hospitality, helping to create a smooth, fair, and memorable IOL experience for all participants.
 
-{{ people_min(data="static/loc.toml")}}
+<!-- {{ people_min(data="static/loc.toml")}} -->
+{{ people(data="static/loc.toml") }}
 
 # Jury
 
@@ -30,4 +31,6 @@ The list of local and international volunteers for IOL 2026 is given below:
 
 The participants consist of delegations of **Contestants**, **Team Leaders** and additional **Observers**, representing their Country or Territory. They take part in the competition, academic discussions and cultural activities, contributing to the international and collaborative spirit of the IOL.
 
-*The list of participating Countries and Territories for IOL 2026 will be updated based on the registered delegations.*
+The list of **participating delegations** (countries and territories as defined by the IOL regulations) for IOL2026 is given below:
+
+{{ country_list(data="static/countries.toml") }}

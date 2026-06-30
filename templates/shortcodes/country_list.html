@@ -1,0 +1,7 @@
+{% set items = load_data(path=data) %}
+
+<ul class="country-list">
+    {% for item in items.country %}
+        <li>{{item.name}}</li>
+    {% endfor %}
+</ul>
