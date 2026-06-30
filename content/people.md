@@ -31,6 +31,6 @@ The list of local and international volunteers for IOL 2026 is given below:
 
 The participants consist of delegations of **Contestants**, **Team Leaders** and additional **Observers**, representing their Country or Territory. They take part in the competition, academic discussions and cultural activities, contributing to the international and collaborative spirit of the IOL.
 
-The list of **participating Countries and Territories** for IOL 2026 is given below:
+The list of **participating delegations** (countries and territories as defined by the IOL regulations) for IOL2026 is given below:
 
 {{ country_list(data="static/countries.toml") }}

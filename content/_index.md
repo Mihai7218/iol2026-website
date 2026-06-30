@@ -7,9 +7,9 @@ weight = 0
 
 # News and Updates
 
-## Participating countries and territories list now available!
+## Participating delegations list now available!
 
-[*30<sup>th</sup> of June 2026*] - The list of ***participating countries and territories*** for IOL 2026 has been added to the website. It can be consulted by visiting the [People](/people/#participants) page.
+[*30<sup>th</sup> of June 2026*] - The list of ***participating delegations*** for IOL 2026 has been added to the website. It can be consulted by visiting the [People](/people/#participants) page.
 
 ## Preliminary schedule and venues information now available!
 
