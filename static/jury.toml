@@ -142,6 +142,13 @@ bio="Master of Science in Applied Mathematics (Sofia University). Applied mathem
 website="www.linkedin.com/in/mveneva"
 
 [[person]]
+name="Przemysław Podleśny"
+pc_year = "2021"
+contest_year = "2017 and 2018"
+photo="jury/PP.jpg"
+bio="MA in Estonian and Finno-Ugric languages at the University of Tartu. Bachelor's degree in Computer Science and former student of Baltic Philology, Classical Philology, Ethnology at the University of Warsaw. In the past years contributed to Polish and Estonian LOs."
+
+[[person]]
 name="Samuel Ahmed"
 pc_year = "2018"
 contest_year = "2015, 2016 and 2017"
