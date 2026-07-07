@@ -11,12 +11,6 @@ photo="volunteers/AS.jpg"
 bio="Hi, I'm Alexia! I study linguistics in the UK, and I love phonology and computational linguistics. This is my first time volunteering in the IOL, and I can't wait to meet everyone and make this a memorable experience."
 
 [[person]]
-name="Andreea Dijmărescu"
-country="Romania"
-photo="volunteers/AD.jpg"
-bio="Hi, I’m Andreea, a biology student who is curious about the world and passionate about learning new things. I enjoy meeting new people, sharing ideas, and building meaningful connections."
-
-[[person]]
 name="Anya Bogaevskaia"
 photo="volunteers/AB.jpeg"
 bio="I'm Anya, a mathematician who's also passionate about languages and linguistics. I'm currently doing my Master's in statistics in Berlin and in my free time I enjoy singing, knitting, dancing historical dances and travelling. I look forward to seeing you in Romania and hope for us to have a great time together at this year's IOL!"
@@ -88,9 +82,15 @@ photo="volunteers/SG.jpg"
 bio="Hi, I'm Sasha! I competed in the IOL in 2023 and 2024, and I'm so, so, SO excited to be back as a volunteer. I study Cognitive Science and Linguistics in college, and in my free time, I read, journal, do theater and visit cozy coffeeshops. Welcome to the IOL — I hope you're as excited as I am :)"
 
 [[person]]
+name="Samir Sarbassov"
+country="Kazakhstan"
+photo="volunteers/SS.jpg"
+bio="Hey there! I'm Samir, I'm an IOL 2025 participant, a 2nd-year undergrad student of World Languages and Linguistics, and now I'm doing some work for the Kazakhstani olympiad too (KazLingO). But, besides linguistics, my biggest interest in life is music!! I usually play piano or guitar when I'm not waist-deep into research... Wishing everyone best of luck on this competition!!! ˆvˆ"
+
+[[person]]
 name="Susan Su"
 country="China"
-photo="volunteers/SS.jpg"
+photo="volunteers/TS.jpg"
 bio="Hi, I’m Susan! I’m from Shanghai, China and I was a contestant at IOL 2023 in Bulgaria. Linguistics Olympiads have been a big part of my life since then, so I’m very excited to be back! I’m currently in my first year of college studying linguistics and psychology. I also love reading, birding, spending time with my cat, watching gymnastics and making crafts. Have a great time at IOL 2026 <3"
 
 [[person]]
