@@ -174,7 +174,7 @@ footer h1 {
     justify-content: center;
 }
 .organisations-list img {
-    max-height: 80px;
+    max-height: 75px;
     max-width: 100%;
     height: auto;
     padding: 10px;
@@ -188,7 +188,7 @@ footer h1 {
         flex-wrap: wrap;
     }
     .organisations-list img {
-        max-height: 100px;
+        max-height: 80px;
     }
 }
 
