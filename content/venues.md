@@ -62,5 +62,5 @@ The Novotel Bucharest City Centre is a modern 4-star hotel located in the heart 
 
 # Transport
 
-Delegations are expected to arrive either at ***Bucharest Henri Coandă International Airport (OTP)*** or the smaller ***Aurel Vlaicu Airport (BBU)***, from which bus/train transfer will be provided by the LOC. For attendees arriving at the ***Bucharest North railway station***, pick-up and transfer will be organized separetly. Other pick-up/transfer options might be possible, but not guaranteed, so please inform the LOC on any such special request.
+Delegations are expected to arrive either at ***Bucharest Henri Coandă International Airport (OTP)*** or the smaller ***Aurel Vlaicu Airport (BBU)***, from which bus/train transfer will be provided by the LOC. For attendees arriving at the ***Bucharest North railway station***, pick-up and transfer will be organized separately. Other pick-up/transfer options might be possible, but not guaranteed, so please inform the LOC on any such special request.
 
