@@ -7,6 +7,10 @@ weight = 0
 
 # News and Updates
 
+## Detailed schedule now available!
+
+[*23<sup>rd</sup> of July 2026*] - The **detailed schedule** for IOL 2026, for both contestants and team leaders, has been added to the website. It can be consulted by visiting the [Schedule](/schedule) page. See you soon in Bucharest!
+
 ## Participating delegations list now available!
 
 [*30<sup>th</sup> of June 2026*] - The list of ***participating delegations*** for IOL 2026 has been added to the website. It can be consulted by visiting the [People](/people/#participants) page.
