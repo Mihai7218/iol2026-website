@@ -484,6 +484,7 @@ footer h1 {
 @media (max-width: 768px) {
     .table-highlight-index {
         table-layout: auto;
+        border-spacing: 1rem 0;
     }
 }
 .table-highlight-index th {
