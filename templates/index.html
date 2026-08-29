@@ -14,8 +14,6 @@
 
 {% block hero %}
 
-<div id="header-offset"></div>
-
 <div class="banner">
     <div class="banner-ribbon"></div>
 
@@ -71,21 +69,6 @@
 </div>
 
 <script>
-    (function () {
-        function updateHeaderOffset() {
-            const header = document.querySelector("header");
-            const offset = document.getElementById("header-offset");
-            if (!header || !offset) return;
-            const height = header.offsetHeight;
-            offset.style.height = height + "px";
-            offset.style.width = "100%";
-            offset.style.pointerEvents = "none";
-        }
-        // Run after layout & fonts are loaded
-        window.addEventListener("load", updateHeaderOffset);
-        // Recalculate on resize (responsive header)
-        window.addEventListener("resize", updateHeaderOffset);
-    })();
     (function() {
         const countdowns = document.querySelectorAll('.banner-countdown');
         countdowns.forEach(container => {
